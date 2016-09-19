@@ -133,7 +133,7 @@ googleAnalytics = ""
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jcarpent"
+    link = "https://github.com/jcarpent"
 
   [[params.social]]
     icon = "open-access"
