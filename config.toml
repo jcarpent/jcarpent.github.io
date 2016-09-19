@@ -135,12 +135,6 @@ googleAnalytics = ""
     icon_pack = "fa"
     link = "https://github.com/jcarpent"
 
-  [[params.social]]
-    icon = "open-access"
-    icon_pack = "fa"
-    link = "https://hal.archives-ouvertes.fr/search/index/?submitType_s[]=file&docType_s[]=ART&docType_s[]=COMM&docType_s[]=COUV&docType_s[]=OTHER&docType_s[]=OUV&docType_s[]=DOUV&docType_s[]=UNDEFINED&docType_s[]=REPORT&docType_s[]=THESE&docType_s[]=HDR&docType_s[]=LECTURE"
-
-
 # Navigation Links
 #   The weight parameter defines the order that the links will appear in.
 
