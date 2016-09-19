@@ -1,1 +1,1 @@
-Professional webpage of Justin Carpentier. Visit https://jcarpent.github.io for a visual experience.
+Repository of my professional webpage. Please visit https://jcarpent.github.io for a visual experience.
