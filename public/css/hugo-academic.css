@@ -352,6 +352,11 @@ h3.article-title a {
     height: auto;
 }
 
+.toto-banner {
+    width: 100%;
+    height: auto;
+}
+
 .article-style img,
 .article-style video {
     box-shadow: 1px 1px 0px #edefed,-1px -1px 0px #edefed,1px -1px 0px #edefed,-1px 1px 0px #edefed;
@@ -387,7 +392,7 @@ h3.article-title a {
     padding-top: 6px;
 }
 
-.pub-banner {
+.publication-banner {
     max-width: 100%;
     height: auto;
     margin-left: auto;
