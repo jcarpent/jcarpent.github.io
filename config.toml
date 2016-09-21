@@ -8,7 +8,7 @@ theme = "academic"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-84493145-1"
 
 
 [params]
@@ -65,6 +65,14 @@ googleAnalytics = ""
   [params.research]
     count = 3
     title = "Research"
+
+  # Preprints section.
+  # Section will only be displayed if there are publications with `preprints = true` in their `+++` preamble.
+  [params.preprints]
+    detailed_list = true
+    title = "Preprints"
+    subtitle = ""
+
 
   # Selected Publications section.
   # Section will only be displayed if there are publications with `selected = true` in their `+++` preamble.
@@ -147,6 +155,11 @@ googleAnalytics = ""
 #  name = "Research"
 #  url = "#research"
 #  weight = 2
+
+[[menu.main]]
+  name = "Preprints"
+  url = "#preprints"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
