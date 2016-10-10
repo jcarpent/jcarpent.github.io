@@ -19,4 +19,4 @@ His reseach is done in collaboration with:
 
 ## Fundings
 
-His work is supported by the ERC [Actanthrope](https://www.laas.fr/projects/actanthrope/) and the French project [ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php). 
+His work is supported by the ERC [Actanthrope](http://actanthrope.laas.fr) and the French project [ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php).
