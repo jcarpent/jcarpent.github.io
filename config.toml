@@ -20,6 +20,9 @@ googleAnalytics = "UA-84493145-1"
   address = "7 avenue du Colonel Roche, 31077 Toulouse Cedex 4, France."
   phone = "+33 5.61.33.68.30"
 
+  # Enable Keybase in Contact section by entering your keybase.io username.
+  keybase = ""
+
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
@@ -33,84 +36,6 @@ googleAnalytics = "UA-84493145-1"
   # Link custom CSS and JS assets (relative to /static/css and /static/js respectively)
   custom_css = []
   custom_js  = []
-
-  # Biography section.
-  # Section will only be displayed if `content/home/about.md` exists.
-  [params.about]
-    #interests =  ["Humanoid Robotics", "Bipedal Locomotion", "Optimal Control and Estimation"]
-    str_interests = "Interests"
-    str_education = "Education"
-
-    #[[params.about.education]]
-    #  course = "PhD candidate in Humanoid Robotics"
-    #  institution = "LAAS-CNRS and Université de Toulouse"
-    #  #year = 
-
-    #[[params.about.education]]
-    #  course = "MSc in Machine Learning"
-    #  institution = "ENS de Cachan"
-    #  year = 2013
-
-    #[[params.about.education]]
-    #  course = "MSc in Electrical Engineering"
-    #  institution = "Université Paris-Saclay"
-    #  year = 2013
-
-    #[[params.about.education]]
-    #  course = "BSc in Electrical Engineering"
-    #  institution = "Université Paris-Saclay"
-    #  year = 2011
-
-  # Research
-  [params.research]
-    count = 3
-    title = "Research"
-
-  # Preprints section.
-  # Section will only be displayed if there are publications with `preprints = true` in their `+++` preamble.
-  [params.preprints]
-    detailed_list = true
-    title = "Preprints"
-    subtitle = ""
-
-
-  # Selected Publications section.
-  # Section will only be displayed if there are publications with `selected = true` in their `+++` preamble.
-  [params.publications_selected]
-    detailed_list = true
-    title = "Selected Publications"
-    subtitle = ""
-
-  # Publications section.
-  # Section will only be displayed if there are publications in `content/publication/`.
-  [params.publications]
-    count = 10
-    detailed_list = false
-    title = "Recent Publications"
-    subtitle = ""
-    str_all = "More Publications"
-
-  # Posts section.
-  # Section will only be displayed if there are posts in `content/post/`.
-  [params.posts]
-    count = 5
-    title = "Recent Posts"
-    subtitle = ""
-    str_all = "More Posts"
-    str_read_more = "Read more"
-
-  # Projects section.
-  # Section will only be displayed if there are projects in `content/project/`.
-  [params.projects]
-    title = "Projects"
-    subtitle = ""
-
-  # Contact section.
-  [params.contact]
-    enable = false
-    title = "Contact"
-    subtitle = ""
-    autolink = true  # Automatically link email and phone?
 
   # Social/Academic Networking
   #
@@ -144,17 +69,12 @@ googleAnalytics = "UA-84493145-1"
     link = "https://github.com/jcarpent"
 
 # Navigation Links
-#   The weight parameter defines the order that the links will appear in.
+#   The weight parameter defines the order that the links will appear in. 
 
 [[menu.main]]
   name = "Home"
   url = "#top"
-  weight = 1
-
-#[[menu.main]]
-#  name = "Research"
-#  url = "#research"
-#  weight = 2
+  weight = 1 
 
 [[menu.main]]
   name = "Preprints"
@@ -163,20 +83,25 @@ googleAnalytics = "UA-84493145-1"
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
-  weight = 3
+  url = "publication/"
+  weight = 3 
 
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
-#  weight = 4
+#  weight = 3 
 #
 #[[menu.main]]
 #  name = "Projects"
 #  url = "#projects"
-#  weight = 5
+#  weight = 4 
+#
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5 
 #
 #[[menu.main]]
 #  name = "Contact"
 #  url = "#contact"
-#  weight = 6
+#  weight = 6 

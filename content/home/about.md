@@ -1,9 +1,36 @@
 +++
 date = "2016-04-20T00:00:00"
 draft = false
-title = "about"
-section_id = 0
+widget = "about"
 weight = 0
+
+#[interests]
+#  title = "Interests"
+#  interests =  ["Humanoid Robotics", "Bipedal Locomotion", "Optimal Control and Estimation"]
+
+#[education]
+#  title = "Education"
+#
+#[[education.courses]]
+#  course = "PhD candidate in Humanoid Robotics"
+#  institution = "LAAS-CNRS and Université de Toulouse"
+#  year = 2014
+#
+#[[education.courses]]
+#  course = "MSc in Machine Learning"
+#  institution = "ENS de Cachan"
+#  year = 2013
+#
+#[[education.courses]]
+#  course = "MSc in Electrical Engineering"
+#  institution = "Université Paris-Saclay"
+#  year = 2013
+#
+#[[education.courses]]
+#  course = "BSc in Electrical Engineering"
+#  institution = "Université Paris-Saclay"
+#  year = 2011
+
 +++
 
 # Biography
