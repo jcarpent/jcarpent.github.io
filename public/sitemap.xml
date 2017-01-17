@@ -1,89 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://jcarpent.github.io/</loc>
-    <lastmod>2016-10-10T11:20:41+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/research/intro/</loc>
+      <lastmod>2016-09-12T09:25:21+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/job2017/</loc>
-    <lastmod>2016-10-10T11:20:41+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/job2017/</loc>
+      <lastmod>2016-10-10T11:20:41+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/simpar16/</loc>
-    <lastmod>2016-09-04T19:12:45+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/simpar16/</loc>
+      <lastmod>2016-09-04T19:12:45+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/tro2016/</loc>
-    <lastmod>2016-06-12T21:16:42+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/tro2016/</loc>
+      <lastmod>2016-06-12T21:16:42+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/ijrr16/</loc>
-    <lastmod>2016-05-21T18:49:33+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/ijrr16/</loc>
+      <lastmod>2016-05-21T18:49:33+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/icra2016/</loc>
-    <lastmod>2016-05-12T10:30:16+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/icra2016/</loc>
+      <lastmod>2016-05-12T10:30:16+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/humanoids2015/</loc>
+      <lastmod>2015-11-13T07:33:57+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/humanoids2015/</loc>
-    <lastmod>2015-11-13T07:33:57+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/ima2015/</loc>
+      <lastmod>2015-09-13T07:38:14+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/ima2015/</loc>
-    <lastmod>2015-09-13T07:38:14+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/isrr2015/</loc>
+      <lastmod>2015-09-12T22:33:52+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/isrr2015/</loc>
-    <lastmod>2015-09-12T22:33:52+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/humanoids2014/</loc>
+      <lastmod>2014-11-19T12:12:14+02:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/publication/humanoids2014/</loc>
-    <lastmod>2014-11-19T12:12:14+02:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/</loc>
+      <lastmod>2016-09-12T09:25:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/research/intro/</loc>
-    <lastmod>2016-09-12T09:25:21+02:00</lastmod>
-  </url>
+    
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/home/preprints/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/publication/</loc>
+      <lastmod>2016-10-10T11:20:41+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://jcarpent.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jcarpent.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jcarpent.github.io/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jcarpent.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://jcarpent.github.io/research/</loc>
+      <lastmod>2016-09-12T09:25:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
