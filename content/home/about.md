@@ -2,7 +2,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 widget = "about"
-weight = 0
+weight = 1
 
 #[interests]
 #  title = "Interests"

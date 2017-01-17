@@ -7,6 +7,7 @@ image = "ijrr16-preview.png"
 image_preview = "ijrr16-preview.png"
 math = false
 preprint = true
+publication_types = ["2"]
 publication = "International Journal of Robotics Research"
 publication_short = "IJRR"
 selected = false

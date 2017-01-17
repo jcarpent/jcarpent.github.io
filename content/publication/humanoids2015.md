@@ -6,6 +6,7 @@ date = "2015-11-13T07:33:57+02:00"
 image = "tro-preview.pdf"
 image_preview = ""
 math = false
+publication_types = ["1"]
 publication = "IEEE-RAS International Conference on Humanoid Robots (ICHR)"
 publication_short = "Humanoids 15"
 selected = false

@@ -6,6 +6,7 @@ date = "2016-09-04T19:12:45+02:00"
 image = ""
 image_preview = ""
 math = false
+publication_types = ["1"]
 publication = "International Conference on Simulation, Modeling, and Programming for Autonomous Robots"
 publication_short = "SIMPAR 2016"
 selected = false

@@ -6,6 +6,7 @@ date = "2014-11-19T12:12:14+02:00"
 image = ""
 image_preview = ""
 math = false
+publication_types = ["1"]
 publication = "IEEE-RAS International Conference on Humanoid Robots (ICHR)"
 publication_short = "Humanoids 2014"
 selected = false
