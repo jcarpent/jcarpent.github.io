@@ -19,7 +19,7 @@ url_openaccess = "https://hal.archives-ouvertes.fr/hal-01360450"
 url_pdf = "https://hal.archives-ouvertes.fr/hal-01360450/document"
 url_project = ""
 url_slides = ""
-url_video = "https://hal.archives-ouvertes.fr/hal-01360450/file/3D.mp4"
+url_video = "https://hal.archives-ouvertes.fr/hal-01360450v1/file/3D.mp4"
 
 +++
 
