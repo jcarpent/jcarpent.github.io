@@ -93,8 +93,8 @@ googleAnalytics = "UA-84493145-1"
   weight = 1 
 
 [[menu.main]]
-  name = "Preprints"
-  url = "#preprints"
+  name = "Submissions"
+  url = "#submissions"
   weight = 2
 
 [[menu.main]]
