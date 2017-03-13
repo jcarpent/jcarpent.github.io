@@ -78,9 +78,9 @@
         
 
         <li class="nav-item">
-          <a href="/#preprints">
+          <a href="/#submissions">
             
-            <span>Preprints</span>
+            <span>Submissions</span>
           </a>
         </li>
 
@@ -104,18 +104,19 @@
   </div>
 </nav>
 
-<div class="container">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="pub-title">
-      <h1 itemprop="name">A Versatile and Efficient Pattern Generator for Generalized Legged Locomotion</h1>
-      <span class="pub-authors" itemprop="author">
-        
-        Justin Carpentier, Steve Tonneau, Maximilien Naveau, Olivier Stasse, Nicolas Mansard
-        
-      </span>
-      <span class="pull-right">
-        
+  
+
+  <div class="container pub-title">
+    <h1 itemprop="name">A Versatile and Efficient Pattern Generator for Generalized Legged Locomotion</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Justin Carpentier, Steve Tonneau, Maximilien Naveau, Olivier Stasse, Nicolas Mansard
+      
+    </span>
+    <span class="pull-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
    
@@ -129,71 +130,73 @@
 </div>
 
 
-      </span>
-    </div>
+    </span>
+  </div>
 
-    
-      <br \>
-      <img src="https://jcarpent.github.io/img/small_icra2016.png" class="publication-banner" itemprop="image" style="max-width: 50%">
-    
+</div>
+<div class="article-container">
 
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper presents a generic and efficient approach to generate dynamically consistent motions for under-actuated systems like humanoid or quadruped robots. The main contribution is a walking pattern generator, able to compute a stable trajectory of the center of mass of the robot along with the angular momentum, for any given configuration of contacts (e.g. on uneven, sloppy or slippery terrain, or with closed-gripper). Unlike existing methods, our solver is fast enough to be applied as a model-predictive controller. We then integrate this pattern generator in a complete framework: an acyclic contact planner is first used to automatically compute the contact sequence from a 3D model of the environment and a desired final posture; a stable walking pattern is then computed by the proposed solver; a dynamically-stable whole-body trajectory is finally obtained using a second-order hierarchical inverse kinematics. The implementation of the whole pipeline is fast enough to plan a step while the previous one is executed. The interest of the method is demonstrated by real experiments on the HRP-2 robot, by performing long-step walking and climbing a staircase with handrail support.</p>
+  
+  <img src="/img/small_icra2016.png" class="publication-banner" itemprop="image" style="max-width: 50%">
+  
 
-    
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
-          <div class="col-xs-12 col-sm-9">
-            
-            <a href="/publication/#1">
-              Conference proceedings
-            </a>
-            
-          </div>
+  <h3>Abstract</h3>
+  <div class="pub-abstract" itemprop="text" align="justify"> This paper presents a generic and efficient approach to generate dynamically consistent motions for under-actuated systems like humanoid or quadruped robots. The main contribution is a walking pattern generator, able to compute a stable trajectory of the center of mass of the robot along with the angular momentum, for any given configuration of contacts (e.g. on uneven, sloppy or slippery terrain, or with closed-gripper). Unlike existing methods, our solver is fast enough to be applied as a model-predictive controller. We then integrate this pattern generator in a complete framework: an acyclic contact planner is first used to automatically compute the contact sequence from a 3D model of the environment and a desired final posture; a stable walking pattern is then computed by the proposed solver; a dynamically-stable whole-body trajectory is finally obtained using a second-order hierarchical inverse kinematics. The implementation of the whole pipeline is fast enough to plan a step while the previous one is executed. The interest of the method is demonstrated by real experiments on the HRP-2 robot, by performing long-step walking and climbing a staircase with handrail support.</div>
+
+  
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+        <div class="col-xs-12 col-sm-9">
+          
+          <a href="/publication/#1">
+            Conference proceedings
+          </a>
+          
         </div>
       </div>
-      <div class="col-sm-1"></div>
     </div>
-    <div class="visible-xs space-below"></div>
-    
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+  
 
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden</div>
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+        <div class="col-xs-12 col-sm-9">IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden</div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+        <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+          May, 2016
         </div>
       </div>
-      <div class="col-sm-1"></div>
     </div>
-    <div class="visible-xs space-below"></div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
 
-    <div class="row">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2016
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-1"></div>
-    </div>
-    <div class="visible-xs space-below"></div>
+  <div class="row" style="padding-top: 10px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+        <div class="col-xs-12 col-sm-9">
 
-    <div class="row" style="padding-top: 10px">
-      <div class="col-sm-1"></div>
-      <div class="col-sm-10">
-        <div class="row">
-          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
-          <div class="col-xs-12 col-sm-9">
-
-            
+          
 
 
 
@@ -224,16 +227,16 @@
 
 
 
-          </div>
         </div>
       </div>
-      <div class="col-sm-1"></div>
     </div>
-    <div class="visible-xs space-below"></div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
 
-    <div class="space-below"></div>
+  <div class="space-below"></div>
 
-    <div class="article-style">
+  <div class="article-style">
 
 <h3 id="video">Video</h3>
 
@@ -241,12 +244,25 @@
 </br></p>
 </div>
 
-  </div>
+</div>
 
-  
-  
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="https://jcarpent.github.io/publication/humanoids2015/"><span
+      aria-hidden="true">&larr;</span> A kinematics-dynamics based estimator of the center of mass position for anthropomorphic system — A complementary filtering approach</a></li>
+    
+
+    
+    <li class="next"><a href="https://jcarpent.github.io/publication/ijrr16/">The Yoyo-Man <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
 
 </div>
+
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">
