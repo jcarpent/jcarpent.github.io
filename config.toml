@@ -10,6 +10,10 @@ disqusShortname = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-84493145-1"
 
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
 
 [params]
   name = "Justin Carpentier"
