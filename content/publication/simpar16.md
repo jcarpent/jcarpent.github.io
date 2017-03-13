@@ -1,8 +1,8 @@
 +++
 abstract = "In this paper, we propose a simulation framework which simultaneously computes both the design and the control of passive walkers. The problem of computing a design and a control is formulated as a single large-scale parametric optimal control problem on hybrid dynamics with path constraints (e.g. non sliding and non slipping contact constraints). Our framework relies on state-of-the-art numerical optimal control techniques and efficient computation of the multi-body rigid dynamics. It allows to compute both the parametrized model and the control of passive walkers on different scenarios, in only few seconds on a standard computer. The framework is illustrated by several examples which highlight the interest of the approach."
 abstract_short = "In this paper, we propose a simulation framework which simultaneously computes both the design and the control of passive walkers. The problem of computing a design and a control is formulated as a single large-scale parametric optimal control problem on hybrid dynamics with path constraints (e.g. non sliding and non slipping contact constraints)."
-authors = ["Guilhem Saurel, Justin Carpentier and Jean-Paul Laumond "]
-date = "2016-09-04T19:12:45+02:00"
+authors = ["Guilhem Saurel, Justin Carpentier, Nicolas Mansard and Jean-Paul Laumond "]
+date = "2016-12-13"
 image = ""
 image_preview = ""
 math = false
