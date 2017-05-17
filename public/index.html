@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.18.1" />
+  <meta name="generator" content="Hugo 0.20.7" />
   <meta name="author" content="Justin Carpentier">
   <meta name="description" content="PhD candidate">
 
@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/academicons.min.css">
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
   <link rel="stylesheet" href="/css/hugo-academic.css">
   
 
@@ -98,6 +98,8 @@
 
         
         
+
+        
       </ul>
 
     </div>
@@ -118,61 +120,63 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
   <div class="col-xs-12 col-md-4">
     <div id="profile">
 
       
-      <div class="portrait" itemprop="image"
-           style="background-image: url('/img/portrait.jpg');">
+      <div class="portrait" style="background-image: url('https://jcarpent.github.io/img/portrait.jpg');">
       </div>
+      <meta itemprop="image" content="https://jcarpent.github.io/img/portrait.jpg">
       
 
       <div class="portrait-title">
         <h2 itemprop="name">Justin Carpentier</h2>
         <h3 itemprop="jobTitle">PhD candidate</h3>
         
-        <h3 itemprop="worksFor">
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           
-          LAAS-CNRS
+            <span itemprop="name">LAAS-CNRS</span>
           
         </h3>
         
       </div>
 
+      <link itemprop="url" href="https://jcarpent.github.io/">
+
       <ul class="social-icon" aria-hidden="true">
         
         
         <li>
-          <a href="mailto:jcarpent@laas.fr" target="_blank">
+          <a itemprop="sameAs" href="mailto:jcarpent@laas.fr" target="_blank">
             <i class="fa fa-envelope big-icon"></i>
           </a>
         </li>
         
         
         <li>
-          <a href="tel:&#43;33.5.61.33.68.30" target="_blank">
+          <a itemprop="sameAs" href="tel:&#43;33.5.61.33.68.30" target="_blank">
             <i class="fa fa-phone big-icon"></i>
           </a>
         </li>
         
         
         <li>
-          <a href="https://scholar.google.com/citations?user=CyhIdmMAAAAJ" target="_blank">
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=CyhIdmMAAAAJ" target="_blank">
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
         
         
         <li>
-          <a href="https://github.com/jcarpent" target="_blank">
+          <a itemprop="sameAs" href="https://github.com/jcarpent" target="_blank">
             <i class="fa fa-github big-icon"></i>
           </a>
         </li>
         
         
         <li>
-          <a href="https://www.researchgate.net/profile/Justin_Carpentier" target="_blank">
+          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Justin_Carpentier" target="_blank">
             <i class="ai ai-researchgate big-icon"></i>
           </a>
         </li>
@@ -449,82 +453,6 @@
 </div>
 
     
-    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-      <a href="https://jcarpent.github.io/publication/ijrr16/">
-        <img src="/img/ijrr16-preview.png" class="publication-banner"
-             itemprop="image" style="max-width: 65%">
-      </a>
-    </div>
-    <div class="col-md-12">
-
-    
-
-      <h3 class="article-title" itemprop="name">
-        <a href="https://jcarpent.github.io/publication/ijrr16/" itemprop="url">The Yoyo-Man</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-        
-        The paper reports on two results issued from a multidisciplinary research action tending to explore the motor synergies of anthropomorphic walking. By combining biomechanics, neurophysiology and robotics perspectives, it is intended to better understand the human locomotion with the ambition to better design bipedal robot architectures.
-        
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        Jean-Paul Laumond, Mehdi Benallegue, Justin Carpentier, Alain Berthoz
-        
-      </div>
-
-      <div class="pub-publication">
-          
-            Submitted to
-          
-          <i>
-          
-              IJRR
-          
-          </i>
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://jcarpent.github.io/publication/ijrr16/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01316032/document">
-  PDF
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01316032">
-  Open Access
-</a>
-
-
-
-
-
-
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-    
     
 
   </div>
@@ -638,6 +566,82 @@
     
 
     <div class="col-md-12">
+      <a href="https://jcarpent.github.io/publication/ijrr16/">
+        <img src="/img/ijrr16-preview.png" class="publication-banner"
+             itemprop="image" style="max-width: 65%">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://jcarpent.github.io/publication/ijrr16/" itemprop="url">The Yoyo-Man</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        The paper reports on two results issued from a multidisciplinary research action tending to explore the motor synergies of anthropomorphic walking. By combining biomechanics, neurophysiology and robotics perspectives, it is intended to better understand the human locomotion with the ambition to better design bipedal robot architectures.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Jean-Paul Laumond, Mehdi Benallegue, Justin Carpentier, Alain Berthoz
+        
+      </div>
+
+      <div class="pub-publication">
+          
+            In
+          
+          <i>
+          
+              IJRR
+          
+          </i>
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://jcarpent.github.io/publication/ijrr16/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01316032v3/document">
+  PDF
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01316032">
+  Open Access
+</a>
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    
+    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
       <a href="https://jcarpent.github.io/publication/icra2016/">
         <img src="/img/small_icra2016.png" class="publication-banner"
              itemprop="image" style="max-width: 65%">
@@ -703,82 +707,6 @@
 <a class="btn btn-primary btn-outline btn-xs" href="https://www.youtube.com/watch?v=YjL-DBQgXwk">
   Video
 </a>
-
-
-
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-    
-    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-      <a href="https://jcarpent.github.io/publication/isrr2015/">
-        <img src="/img/isrr15-preview.png" class="publication-banner"
-             itemprop="image" style="max-width: 65%">
-      </a>
-    </div>
-    <div class="col-md-12">
-
-    
-
-      <h3 class="article-title" itemprop="name">
-        <a href="https://jcarpent.github.io/publication/isrr2015/" itemprop="url">The Yoyo-Man</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-        
-        The Yoyo-Man project is a research action tending to explore the synergies of anthropomorphic locomotion. The seminal hypothesis is to consider the wheel as a plausible model of bipedal walking.
-        
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        Jean-Paul Laumond, Mehdi Benallegue, Justin Carpentier and Alain Berthoz
-        
-      </div>
-
-      <div class="pub-publication">
-          
-            In
-          
-          <i>
-          
-              ISRR 2015
-          
-          </i>
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://jcarpent.github.io/publication/isrr2015/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01175591/document">
-  PDF
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01175591">
-  Open Access
-</a>
-
-
-
 
 
 
@@ -1012,7 +940,7 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01316032/document">
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.archives-ouvertes.fr/hal-01316032v3/document">
   PDF
 </a>
 
@@ -1252,7 +1180,7 @@
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
     </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    <script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
     
 
   </body>
