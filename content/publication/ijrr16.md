@@ -14,10 +14,10 @@ selected = true
 title = "The Yoyo-Man"
 url_code = ""
 url_dataset = ""
-url_doi = ""
+url_doi = "10.1177/0278364917693292"
 url_openaccess = "https://hal.archives-ouvertes.fr/hal-01316032"
 url_pdf = "https://hal.archives-ouvertes.fr/hal-01316032v3/document"
-url_project = ""
+url_project = "http://actanthrope.laas.fr/"
 url_slides = ""
 url_video = ""
 
