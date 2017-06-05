@@ -46,4 +46,4 @@ My reseach is done in collaboration with:
 
 ## Fundings
 
-My work is supported by the ERC [Actanthrope](http://actanthrope.laas.fr) and the French project [ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php).
+My work is supported by the ERC project [Actanthrope](http://actanthrope.laas.fr) and the French ANR project [ENTRACTE](http://homepages.laas.fr/nmansard/entracte/index.php).
