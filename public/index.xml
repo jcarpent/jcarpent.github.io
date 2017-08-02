@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Justin Carpentier</copyright>
+    <copyright>&amp;copy; 2017 Justin Carpentier</copyright>
     <lastBuildDate>Mon, 12 Sep 2016 09:25:21 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,15 @@
       <guid>https://jcarpent.github.io/research/intro/</guid>
       <description>&lt;p&gt;My research is focused on three main but related topics&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Actuator Design of Compliant Walkers via Optimal Control</title>
+      <link>https://jcarpent.github.io/publication/iros2017optimal/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/iros2017optimal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -33,6 +42,15 @@
 &lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/7hiLf6DpMAA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
 &lt;/br&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multi-contact Locomotion of Legged Robots in Complex Environments – The Loco3D project</title>
+      <link>https://jcarpent.github.io/publication/rss2017workshop/</link>
+      <pubDate>Wed, 12 Jul 2017 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/rss2017workshop/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -60,20 +78,11 @@
     </item>
     
     <item>
-      <title>Optimal Design of Compliant Walkers</title>
-      <link>https://jcarpent.github.io/publication/iros2017optimal/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/iros2017optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TALOS: A new humanoid research platform targeted for industrial applications</title>
-      <link>https://jcarpent.github.io/publication/iros2017talos/</link>
+      <link>https://jcarpent.github.io/publication/humanoids2017talos/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jcarpent.github.io/publication/iros2017talos/</guid>
+      <guid>https://jcarpent.github.io/publication/humanoids2017talos/</guid>
       <description></description>
     </item>
     

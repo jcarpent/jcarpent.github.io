@@ -14,7 +14,25 @@
     
     <url>
     
+      <loc>https://jcarpent.github.io/publication/iros2017optimal/</loc>
+      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://jcarpent.github.io/publication/rss2017/</loc>
+      <lastmod>2017-07-12T10:30:16+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jcarpent.github.io/publication/rss2017workshop/</loc>
       <lastmod>2017-07-12T10:30:16+02:00</lastmod>
     </url>
     
@@ -41,16 +59,7 @@
     
     <url>
     
-      <loc>https://jcarpent.github.io/publication/iros2017optimal/</loc>
-      <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://jcarpent.github.io/publication/iros2017talos/</loc>
+      <loc>https://jcarpent.github.io/publication/humanoids2017talos/</loc>
       <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -142,7 +151,7 @@
     <url>
     
       <loc>https://jcarpent.github.io/publication_types/1/</loc>
-      <lastmod>2017-07-12T10:30:16+02:00</lastmod>
+      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -161,6 +170,26 @@
     
     <url>
     
+      <loc>https://jcarpent.github.io/publication_types/3/</loc>
+      <lastmod>2017-07-12T10:30:16+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jcarpent.github.io/publication_types/4/</loc>
+      <lastmod>2017-05-20T10:30:16+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://jcarpent.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -171,7 +200,7 @@
     <url>
     
       <loc>https://jcarpent.github.io/publication_types/</loc>
-      <lastmod>2017-07-12T10:30:16+02:00</lastmod>
+      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -181,7 +210,7 @@
     <url>
     
       <loc>https://jcarpent.github.io/publication/</loc>
-      <lastmod>2017-07-12T10:30:16+02:00</lastmod>
+      <lastmod>2017-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
