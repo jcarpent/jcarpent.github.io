@@ -51,10 +51,11 @@ defaultContentLanguageInSubdir = false
     'Uncategorized',  # 0 
     'Conference proceedings',  # 1 
     'Journal',  # 2 
-    'Work in progress',  # 3 
-    'Technical report',  # 4 
-    'Book',  # 5 
-    'Book chapter'  # 6 
+    'Workshop proceedings',  # 3 
+    'Work in progress',  # 4
+    'Technical report',  # 5 
+    'Book',  # 6 
+    'Book chapter'  # 7 
   ]
 
   # Social/Academic Networking
