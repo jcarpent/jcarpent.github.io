@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>A human-inspired mechanical criterion for multi-contact locomotion in humanoids</title>
+      <link>https://jcarpent.github.io/publication/humanoids2017ca/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/humanoids2017ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Feasibility Constraints for Multi-contact Locomotion of Legged Robots</title>
       <link>https://jcarpent.github.io/publication/rss2017/</link>
       <pubDate>Wed, 12 Jul 2017 10:30:16 +0200</pubDate>
@@ -153,21 +162,6 @@
       
       <guid>https://jcarpent.github.io/publication/isrr2015/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>METAPOD Template META-programming applied to dynamics: CoP-CoM trajectories filtering</title>
-      <link>https://jcarpent.github.io/publication/humanoids2014/</link>
-      <pubDate>Wed, 19 Nov 2014 12:12:14 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/humanoids2014/</guid>
-      <description>
-
-&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/kBeLa5Rsy4w&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
-&lt;/br&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
