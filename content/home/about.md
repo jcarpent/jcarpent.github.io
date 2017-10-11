@@ -35,7 +35,7 @@ weight = 1
 
 # Biography
 
-I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieur de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
+I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
 Since September 2014, I have been a PhD candidate in the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS, Toulouse. My research is devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I try to highligth the mechanismes underlying bipedalism among human beings. On the other side, I develop new mathematical formulations for the locomotion of humanoid robots.
 
