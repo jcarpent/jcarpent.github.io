@@ -4,40 +4,38 @@ draft = false
 widget = "about"
 weight = 1
 
-#[interests]
-#  title = "Interests"
-#  interests =  ["Humanoid Robotics", "Bipedal Locomotion", "Optimal Control and Estimation"]
+[interests]
+  title = "Interests"
+  interests =  ["Machine Learning", "Optimal Control and Estimation", "Humanoid Robotics", "Bipedal Locomotion"]
 
-#[education]
-#  title = "Education"
-#
-#[[education.courses]]
-#  course = "PhD candidate in Humanoid Robotics"
-#  institution = "LAAS-CNRS and Université de Toulouse"
-#  year = 2014
-#
-#[[education.courses]]
-#  course = "MSc in Machine Learning"
-#  institution = "ENS de Cachan"
-#  year = 2013
-#
-#[[education.courses]]
-#  course = "MSc in Electrical Engineering"
-#  institution = "Université Paris-Saclay"
-#  year = 2013
-#
-#[[education.courses]]
-#  course = "BSc in Electrical Engineering"
-#  institution = "Université Paris-Saclay"
-#  year = 2011
+[education]
+  title = "Education"
+
+[[education.courses]]
+  course = "PhD in Robotics"
+  institution = "LAAS-CNRS and Université de Toulouse"
+  year = 2017
+
+[[education.courses]]
+  course = "MSc in Vision and Machine Learning (MVA)"
+  institution = "Ecole Normale Supérieure de Cachan"
+  year = 2013
+
+[[education.courses]]
+  course = "Msc in Applied Mathematics and Electrical Engineering"
+  institution = "Ecole Normale Supérieure de Cachan"
+  year = 2013
 
 +++
 
 # Biography
+My name is Justin Carpentier. My reserach is devoted to the embedding of Optimal Control theory inside the formalism of Machine Learning, with Humanoid Robotics as a main target application. 
+Since September 2017, I have a post-doc position inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS, Toulouse, France. 
+
+Previously, I was a PhD candidate in the [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
+My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I tried to highligth the mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
 
 I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
-
-Since September 2014, I have been a PhD candidate in the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS, Toulouse. My research is devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I try to highligth the mechanismes underlying bipedalism among human beings. On the other side, I develop new mathematical formulations for the locomotion of humanoid robots.
 
 ## Main collabarotors
 
