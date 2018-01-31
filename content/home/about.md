@@ -29,10 +29,10 @@ weight = 1
 +++
 
 # Biography
-My name is Justin Carpentier. My reserach is devoted to the embedding of Optimal Control theory inside the formalism of Machine Learning, with Humanoid Robotics as a main target application. 
-Since September 2017, I have a post-doc position inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS, Toulouse, France. 
+My name is Justin Carpentier. I am a postdoctoral researcher at the interface between Robotics, Machine Learning and Control. My reserach is devoted to the embedding of Optimal Control theory inside the formalism of Machine Learning, with Humanoid Robotics as a main target application. 
+Since September 2017, I have a postdoctoral position inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS, Toulouse, France. 
 
-Previously, I was a PhD candidate in the [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
+Previously, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
 My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I tried to highligth the mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
 
 I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
