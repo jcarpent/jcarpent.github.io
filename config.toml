@@ -17,7 +17,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Justin Carpentier"
-  role = "PhD candidate"
+  role = "Post-Doc"
   organization = "LAAS-CNRS"
   avatar = "portrait.jpg"
   email = "justin.carpentier_AT_laas.fr"
