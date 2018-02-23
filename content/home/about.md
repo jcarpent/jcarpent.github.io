@@ -29,7 +29,7 @@ weight = 1
 +++
 
 # Biography
-My name is Justin Carpentier. I am a postdoctoral researcher at the interface between Robotics, Machine Learning and Control. My reserach is devoted to the embedding of Optimal Control theory inside the formalism of Machine Learning, with Humanoid Robotics as a main target application. 
+My name is Justin Carpentier. I am a postdoctoral researcher at the interface between Robotics, Machine Learning and Control. My research is devoted to the embedding of Optimal Control theory inside the formalism of Machine Learning, with Humanoid Robotics as a main target application. 
 Since September 2017, I have a postdoctoral position inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS, Toulouse, France. 
 
 Previously, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
