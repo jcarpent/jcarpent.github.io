@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Justin Carpentier</copyright>
-    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 10:30:16 +0200</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analytical Derivatives of Rigid Body Dynamics Algorithms</title>
+      <link>https://jcarpent.github.io/publication/rss2018/</link>
+      <pubDate>Mon, 14 May 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/rss2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Actuator Design of Compliant Walkers via Optimal Control</title>
