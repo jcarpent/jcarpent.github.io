@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Analytical Inverse of the Joint Space Inertia Matrix</title>
+      <link>https://jcarpent.github.io/publication/report-analytical-inverse/</link>
+      <pubDate>Mon, 14 May 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/report-analytical-inverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Actuator Design of Compliant Walkers via Optimal Control</title>
       <link>https://jcarpent.github.io/publication/iros2017optimal/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
@@ -152,15 +161,6 @@
       <pubDate>Fri, 13 Nov 2015 07:33:57 +0200</pubDate>
       
       <guid>https://jcarpent.github.io/publication/humanoids2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An analytical model of rolling contact and its application to the modeling of bipedal locomotion</title>
-      <link>https://jcarpent.github.io/publication/ima2015/</link>
-      <pubDate>Sun, 13 Sep 2015 07:38:14 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/ima2015/</guid>
       <description></description>
     </item>
     

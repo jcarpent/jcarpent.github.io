@@ -50,11 +50,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://jcarpent.github.io/publication/rss2018/">
+  <link rel="canonical" href="https://jcarpent.github.io/publication/report-analytical-inverse/">
 
   
 
-  <title>Analytical Derivatives of Rigid Body Dynamics Algorithms | </title>
+  <title>Analytical Inverse of the Joint Space Inertia Matrix | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -148,7 +148,7 @@
 
 
   <div class="container pub-title" align="center">
-    <h1 itemprop="name">Analytical Derivatives of Rigid Body Dynamics Algorithms</h1>
+    <h1 itemprop="name">Analytical Inverse of the Joint Space Inertia Matrix</h1>
     <div class="pub-authors" itemprop="author" style="max-width: 80%">
       
       Justin Carpentier
@@ -160,21 +160,21 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fjcarpent.github.io%2fpublication%2frss2018%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fjcarpent.github.io%2fpublication%2freport-analytical-inverse%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Analytical%20Derivatives%20of%20Rigid%20Body%20Dynamics%20Algorithms&amp;url=https%3a%2f%2fjcarpent.github.io%2fpublication%2frss2018%2f"
+         href="https://twitter.com/intent/tweet?text=Analytical%20Inverse%20of%20the%20Joint%20Space%20Inertia%20Matrix&amp;url=https%3a%2f%2fjcarpent.github.io%2fpublication%2freport-analytical-inverse%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fjcarpent.github.io%2fpublication%2frss2018%2f&amp;title=Analytical%20Derivatives%20of%20Rigid%20Body%20Dynamics%20Algorithms"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fjcarpent.github.io%2fpublication%2freport-analytical-inverse%2f&amp;title=Analytical%20Inverse%20of%20the%20Joint%20Space%20Inertia%20Matrix"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
@@ -182,7 +182,7 @@
    
     <li>
       <a class="email"
-         href="mailto:?subject=Analytical%20Derivatives%20of%20Rigid%20Body%20Dynamics%20Algorithms&amp;body=https%3a%2f%2fjcarpent.github.io%2fpublication%2frss2018%2f">
+         href="mailto:?subject=Analytical%20Inverse%20of%20the%20Joint%20Space%20Inertia%20Matrix&amp;body=https%3a%2f%2fjcarpent.github.io%2fpublication%2freport-analytical-inverse%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -199,7 +199,7 @@
   
 
   <h3>Abstract</h3>
-  <div class="pub-abstract" itemprop="text" align="justify"> Rigid body dynamics is a well-established metho- dology in robotics. It can be exploited to exhibit the analytic form of kinematic and dynamic functions of the robot model. Two major algorithms, namely the recursive Newton-Euler algorithm (RNEA) and the articulated body algorithm (ABA), have been proposed so far to compute inverse dynamics and forward dynamics in a few microseconds. However, computing their derivatives remains a costly process, either using finite differences (costly and approximate) or automatic differentiation (difficult to implement and suboptimal). As computing the derivatives becomes an important issue (in optimal control, estimation, co-design or reinforcement learning), we propose in this paper new algorithms to efficiently compute them using closed-form formulations. We first explicitly differentiate RNEA, using the chain rule and adequate algebraic differentiation of spatial algebra. Then, using properties about the derivative of function composition, we show that the same algorithm can also be used to compute the derivatives of the forward dynamics with marginal additional cost. To this end, we finally introduce a new algorithm to compute the inverse of the joint-space inertia matrix, without explicitly computing the matrix itself. The algorithms have been implemented in our open-source C++ framework called Pinocchio. The reported benchmarks, based on several robot models, display computational costs varying between 3 microseconds (for a 7-dof arm) up to 17 microseconds (for a 36-dof humanoid), i.e. outperforms state-of-the-art results.</div>
+  <div class="pub-abstract" itemprop="text" align="justify"> In this short report, we briefly introduce a new algorithm to compute the analytical inverse of the joint space inertia matrix. Such inverse may be useful for several applications like the computation of the analytical derivatives of the forward dynamics. We also provide a free C++ implementation of this algorithm inside our C++ framework for rigid-body dynamics computations called Pinocchio.</div>
 
   
   <div class="row">
@@ -209,8 +209,8 @@
         <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
         <div class="col-xs-12 col-sm-9">
           
-          <a href="/publication/#1">
-            Conference proceedings
+          <a href="/publication/#5">
+            Technical report
           </a>
           
         </div>
@@ -226,7 +226,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9 pub-publication">Robotics: Science and Systems</div>
+        <div class="col-xs-12 col-sm-9 pub-publication">LAAS Technical Report</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -259,12 +259,12 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-publication " href="https://hal.archives-ouvertes.fr/hal-01790971/document">
+<a class="btn btn-primary btn-outline btn-publication " href="https://hal.archives-ouvertes.fr/hal-01790934/document">
   PDF
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-publication " href="https://hal.archives-ouvertes.fr/hal-01790971">
+<a class="btn btn-primary btn-outline btn-publication " href="https://hal.archives-ouvertes.fr/hal-01790934">
   Open Access
 </a>
 
@@ -294,10 +294,13 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://jcarpent.github.io/publication/report-analytical-inverse/"><span
-      aria-hidden="true">&larr;</span> Analytical Inverse of the Joint Space Inertia Matrix</a></li>
+    <li class="previous"><a href="https://jcarpent.github.io/publication/iros2017optimal/"><span
+      aria-hidden="true">&larr;</span> Actuator Design of Compliant Walkers via Optimal Control</a></li>
     
 
+    
+    <li class="next"><a href="https://jcarpent.github.io/publication/rss2018/">Analytical Derivatives of Rigid Body Dynamics Algorithms <span
+      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

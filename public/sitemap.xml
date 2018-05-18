@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>https://jcarpent.github.io/publication/report-analytical-inverse/</loc>
+      <lastmod>2018-05-14T10:30:16+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://jcarpent.github.io/publication/iros2017optimal/</loc>
       <lastmod>2017-09-24T00:00:00+00:00</lastmod>
     </url>
@@ -200,6 +209,16 @@
     
       <loc>https://jcarpent.github.io/publication_types/4/</loc>
       <lastmod>2017-07-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jcarpent.github.io/publication_types/5/</loc>
+      <lastmod>2018-05-14T10:30:16+02:00</lastmod>
       <priority>0</priority>
     </url>
     
