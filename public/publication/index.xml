@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Justin Carpentier</copyright>
-    <lastBuildDate>Mon, 14 May 2018 10:30:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A mechanical descriptor of human locomotion and its application to multi-contact walking in humanoids</title>
+      <link>https://jcarpent.github.io/publication/biorob2018/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/biorob2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analytical Derivatives of Rigid Body Dynamics Algorithms</title>
@@ -34,15 +43,6 @@
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jcarpent.github.io/publication/iros2017optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A human-inspired mechanical criterion for multi-contact locomotion in humanoids</title>
-      <link>https://jcarpent.github.io/publication/humanoids2017ca/</link>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/humanoids2017ca/</guid>
       <description></description>
     </item>
     
