@@ -34,7 +34,7 @@ Since September 2018, I'm a postdoctoral fellow inside the [Willow research grou
 
 Before that, I was a postdoctoral researcher inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
 Previously, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
-My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I tried to highligth the mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
+My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I highligthed some mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
 
 I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
