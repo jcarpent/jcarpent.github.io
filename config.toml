@@ -18,9 +18,9 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Justin Carpentier"
   role = "Post-Doc"
-  organization = "LAAS-CNRS"
+  organization = "INRIA Paris"
   avatar = "portrait.jpg"
-  email = "justin.carpentier_AT_laas.fr"
+  email = "justin.carpentier_AT_inria.fr"
   address = "7 avenue du Colonel Roche, 31077 Toulouse Cedex 4, France."
   phone = "+33 5.61.33.68.30"
 
@@ -55,7 +55,8 @@ defaultContentLanguageInSubdir = false
     'Work in progress',  # 4
     'Technical report',  # 5 
     'Book',  # 6 
-    'Book chapter'  # 7 
+    'Book chapter',  # 7 
+    'Thesis'  # 8 
   ]
 
   # Social/Academic Networking
@@ -72,7 +73,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jcarpent@laas.fr"
+    link = "mailto:justin.carpentier@inria.fr"
 
   [[params.social]]
     icon = "phone"
