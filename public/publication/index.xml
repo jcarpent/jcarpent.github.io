@@ -7,8 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Justin Carpentier</copyright>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 10:30:16 +0200</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynamics Consensus between Centroidal and Whole-Body Models for Locomotion of Legged Robots</title>
+      <link>https://jcarpent.github.io/publication/icra2019/</link>
+      <pubDate>Sat, 15 Sep 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/icra2019/</guid>
+      <description>&lt;!--
+### Video ###
+
+&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/YjL-DBQgXwk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;/br&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-contact Locomotion of Legged Robots</title>
+      <link>https://jcarpent.github.io/publication/tro2018/</link>
+      <pubDate>Wed, 01 Aug 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/tro2018/</guid>
+      <description>
+
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/7hiLf6DpMAA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differential Dynamic Programming for Multi-Phase Rigid Contact Dynamics</title>
+      <link>https://jcarpent.github.io/publication/humanoids2018dpp/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/humanoids2018dpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A mechanical descriptor of human locomotion and its application to multi-contact walking in humanoids</title>
@@ -80,21 +119,6 @@
     </item>
     
     <item>
-      <title>Multi-contact Locomotion of Legged Robots</title>
-      <link>https://jcarpent.github.io/publication/tro2017/</link>
-      <pubDate>Sat, 20 May 2017 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/tro2017/</guid>
-      <description>
-
-&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/7hiLf6DpMAA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
-&lt;/br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>TALOS: A new humanoid research platform targeted for industrial applications</title>
       <link>https://jcarpent.github.io/publication/humanoids2017talos/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
@@ -143,24 +167,6 @@
 &lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/YjL-DBQgXwk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
 &lt;/br&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A kinematics-dynamics based estimator of the center of mass position for anthropomorphic system — A complementary filtering approach</title>
-      <link>https://jcarpent.github.io/publication/humanoids2015/</link>
-      <pubDate>Fri, 13 Nov 2015 07:33:57 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/humanoids2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An analytical model of rolling contact and its application to the modeling of bipedal locomotion</title>
-      <link>https://jcarpent.github.io/publication/ima2015/</link>
-      <pubDate>Sun, 13 Sep 2015 07:38:14 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/ima2015/</guid>
-      <description></description>
     </item>
     
   </channel>
