@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Justin Carpentier</copyright>
-    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 10:30:16 +0200</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynamics Consensus between Centroidal and Whole-Body Models for Locomotion of Legged Robots</title>
+      <link>https://jcarpent.github.io/publication/icra2019/</link>
+      <pubDate>Sat, 15 Sep 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/icra2019/</guid>
+      <description>&lt;!--
+### Video ###
+
+&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/YjL-DBQgXwk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;/br&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Pinocchio C&#43;&#43; library – A fast and flexible implementation of rigid body dynamics algorithms and their analytical derivatives</title>
+      <link>https://jcarpent.github.io/publication/sii2019/</link>
+      <pubDate>Sat, 01 Sep 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/sii2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differential Dynamic Programming for Multi-Phase Rigid Contact Dynamics</title>
