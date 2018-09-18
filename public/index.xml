@@ -36,6 +36,15 @@
     </item>
     
     <item>
+      <title>The Pinocchio C&#43;&#43; library – A fast and flexible implementation of rigid body dynamics algorithms and their analytical derivatives</title>
+      <link>https://jcarpent.github.io/publication/sii2019/</link>
+      <pubDate>Sat, 01 Sep 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/sii2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-contact Locomotion of Legged Robots</title>
       <link>https://jcarpent.github.io/publication/tro2018/</link>
       <pubDate>Wed, 01 Aug 2018 10:30:16 +0200</pubDate>
@@ -152,15 +161,6 @@
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://jcarpent.github.io/publication/simpar16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Center of Mass Estimation for Polyarticulated System in Contact — A Spectral Approach</title>
-      <link>https://jcarpent.github.io/publication/tro2016/</link>
-      <pubDate>Sun, 12 Jun 2016 21:16:42 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/tro2016/</guid>
       <description></description>
     </item>
     

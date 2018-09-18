@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>The Pinocchio C&#43;&#43; library – A fast and flexible implementation of rigid body dynamics algorithms and their analytical derivatives</title>
+      <link>https://jcarpent.github.io/publication/sii2019/</link>
+      <pubDate>Sat, 01 Sep 2018 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/sii2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differential Dynamic Programming for Multi-Phase Rigid Contact Dynamics</title>
       <link>https://jcarpent.github.io/publication/humanoids2018dpp/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
