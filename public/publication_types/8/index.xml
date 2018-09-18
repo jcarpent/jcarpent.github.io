@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on </title>
+    <link>https://jcarpent.github.io/publication_types/8/</link>
+    <description>Recent content in 8 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017-2018 Justin Carpentier</copyright>
+    <lastBuildDate>Fri, 01 Sep 2017 10:30:16 +0200</lastBuildDate>
+    <atom:link href="/publication_types/8/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Computational foundations of anthropomorphic locomotion</title>
+      <link>https://jcarpent.github.io/publication/thesis2017/</link>
+      <pubDate>Fri, 01 Sep 2017 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication/thesis2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
