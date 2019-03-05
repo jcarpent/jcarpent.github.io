@@ -42,8 +42,8 @@ I received my degree in Computer Science and Applied Mathematics with highest ho
 
 My reseach is done in collaboration with:
 [Francis Bach](https://www.di.ens.fr/~fbach/), [Josef Sivic](https://www.di.ens.fr/~josef/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/) for the Machine Learning and Vision aspects.
-And with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](http://projects.laas.fr/gepetto/index.php/Members/AndreaDelPrete) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
+In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](http://projects.laas.fr/gepetto/index.php/Members/AndreaDelPrete) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
 
 ## Fundings
 
-My work is supported by the ERC project [LEAP](https://www.inria.fr/en/centre/paris/news/josef-sivic-nominee-erc-2013) and the ERC [Actanthrope](http://actanthrope.laas.fr).
+My work is supported by the ERC project [LEAP](https://www.inria.fr/en/centre/paris/news/josef-sivic-nominee-erc-2013).
