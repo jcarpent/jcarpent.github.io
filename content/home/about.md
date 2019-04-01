@@ -47,3 +47,7 @@ In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laa
 ## Fundings
 
 My work is supported by the ERC project [LEAP](https://www.inria.fr/en/centre/paris/news/josef-sivic-nominee-erc-2013).
+
+## Softwares
+
+I'm also the main developper of many Robotics softwares, among them [Pinocchio](https://github.com/stack-of-tasks/pinocchio), dedicated to the fast and efficient computations of Rigid Body Dynamics equations together with their analytical derivatives.
