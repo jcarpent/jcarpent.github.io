@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on </title>
@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>3</title>
-      <link>https://jcarpent.github.io/publication_types/3/</link>
-      <pubDate>Wed, 12 Jul 2017 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>5</title>
       <link>https://jcarpent.github.io/publication_types/5/</link>
       <pubDate>Mon, 14 May 2018 10:30:16 +0200</pubDate>
@@ -54,6 +45,15 @@
       <pubDate>Fri, 01 Sep 2017 10:30:16 +0200</pubDate>
       
       <guid>https://jcarpent.github.io/publication_types/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://jcarpent.github.io/publication_types/3/</link>
+      <pubDate>Wed, 12 Jul 2017 10:30:16 +0200</pubDate>
+      
+      <guid>https://jcarpent.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     

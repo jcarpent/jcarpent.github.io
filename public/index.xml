@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -7,160 +6,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2018 Justin Carpentier</copyright>
-    <lastBuildDate>Mon, 12 Sep 2016 09:25:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 10:30:16 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Research</title>
-      <link>https://jcarpent.github.io/research/intro/</link>
-      <pubDate>Mon, 12 Sep 2016 09:25:21 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/research/intro/</guid>
-      <description>&lt;p&gt;My research is focused on three main but related topics&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamics Consensus between Centroidal and Whole-Body Models for Locomotion of Legged Robots</title>
-      <link>https://jcarpent.github.io/publication/icra2019/</link>
+      <title>Publications</title>
+      <link>https://jcarpent.github.io/publication/</link>
       <pubDate>Sat, 15 Sep 2018 10:30:16 +0200</pubDate>
       
-      <guid>https://jcarpent.github.io/publication/icra2019/</guid>
-      <description>&lt;!--
-### Video ###
-
-&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/YjL-DBQgXwk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
-&lt;/br&gt;
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Pinocchio C&#43;&#43; library – A fast and flexible implementation of rigid body dynamics algorithms and their analytical derivatives</title>
-      <link>https://jcarpent.github.io/publication/sii2019/</link>
-      <pubDate>Sat, 01 Sep 2018 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/sii2019/</guid>
+      <guid>https://jcarpent.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-contact Locomotion of Legged Robots</title>
-      <link>https://jcarpent.github.io/publication/tro2018/</link>
-      <pubDate>Wed, 01 Aug 2018 10:30:16 +0200</pubDate>
+      <title>Researches</title>
+      <link>https://jcarpent.github.io/research/</link>
+      <pubDate>Mon, 12 Sep 2016 09:25:21 +0200</pubDate>
       
-      <guid>https://jcarpent.github.io/publication/tro2018/</guid>
-      <description>
-
-&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/7hiLf6DpMAA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
-&lt;/br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Differential Dynamic Programming for Multi-Phase Rigid Contact Dynamics</title>
-      <link>https://jcarpent.github.io/publication/humanoids2018dpp/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/humanoids2018dpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A mechanical descriptor of human locomotion and its application to multi-contact walking in humanoids</title>
-      <link>https://jcarpent.github.io/publication/biorob2018/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/biorob2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analytical Derivatives of Rigid Body Dynamics Algorithms</title>
-      <link>https://jcarpent.github.io/publication/rss2018/</link>
-      <pubDate>Mon, 14 May 2018 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/rss2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analytical Inverse of the Joint Space Inertia Matrix</title>
-      <link>https://jcarpent.github.io/publication/report-analytical-inverse/</link>
-      <pubDate>Mon, 14 May 2018 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/report-analytical-inverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Actuator Design of Compliant Walkers via Optimal Control</title>
-      <link>https://jcarpent.github.io/publication/iros2017optimal/</link>
-      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/iros2017optimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational foundations of anthropomorphic locomotion</title>
-      <link>https://jcarpent.github.io/publication/thesis2017/</link>
-      <pubDate>Fri, 01 Sep 2017 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/thesis2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Feasibility Constraints for Multi-contact Locomotion of Legged Robots</title>
-      <link>https://jcarpent.github.io/publication/rss2017/</link>
-      <pubDate>Wed, 12 Jul 2017 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/rss2017/</guid>
-      <description>
-
-&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://www.youtube.com/embed/7hiLf6DpMAA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
-&lt;/br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multi-contact Locomotion of Legged Robots in Complex Environments – The Loco3D project</title>
-      <link>https://jcarpent.github.io/publication/rss2017workshop/</link>
-      <pubDate>Wed, 12 Jul 2017 10:30:16 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/rss2017workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the centre of mass motion in human walking</title>
-      <link>https://jcarpent.github.io/publication/ijac2017/</link>
-      <pubDate>Fri, 26 May 2017 11:20:41 +0200</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/ijac2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TALOS: A new humanoid research platform targeted for industrial applications</title>
-      <link>https://jcarpent.github.io/publication/humanoids2017talos/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/humanoids2017talos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Simulation Framework for Simultaneous Design and Control of Passive Walkers</title>
-      <link>https://jcarpent.github.io/publication/simpar16/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jcarpent.github.io/publication/simpar16/</guid>
+      <guid>https://jcarpent.github.io/research/</guid>
       <description></description>
     </item>
     
