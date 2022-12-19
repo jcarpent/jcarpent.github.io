@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://www.di.ens.fr/willow/">Inria, Ecole Normale Supérieure, Paris, France</a>.
+subtitle: <a href="https://www.di.ens.fr/willow/">Inria, Ecole Normale Supérieure, Paris, France </a>.
 
 profile:
   align: right
@@ -36,6 +36,12 @@ In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laa
 
 ## Software
 
-I'm also the main developper of many Robotics softwares, among them:
-- [Pinocchio](https://github.com/stack-of-tasks/pinocchio), dedicated to the fast and efficient computations of Rigid Body Dynamics equations together with their analytical derivatives,
-- [hpp-fcl]()
+I'm also the main developper of many Robotics software, among them:
+
+{% if site.data.repositories.github_repos %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.html repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}

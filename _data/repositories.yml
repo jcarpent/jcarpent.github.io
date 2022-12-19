@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jcarpent
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - stack-of-tasks/pinocchio
+  - humanoid-path-planner/hpp-fcl
+  - stack-of-tasks/eigenpy
+  - loco-3d/crocoddyl
+  - jrl-umi3218/jrl-cmakemodules
+  - Simple-Robotics/proxsuite
+  - Simple-Robotics/pycppad
