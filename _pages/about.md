@@ -27,12 +27,14 @@ My research was at this time devoted to the understanding of the computational f
 
 I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
-## Main collabarotors
+## Main collaborators
 
 My reseach is done in collaboration with:
 [Francis Bach](https://www.di.ens.fr/~fbach/), [Jean Ponce](https://www.di.ens.fr/~ponce/), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/), [Josef Sivic](https://www.di.ens.fr/~josef/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/) for the Machine Learning and Vision aspects.
 In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](http://projects.laas.fr/gepetto/index.php/Members/>  \AndreaDelPrete) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
 
-## Softwares
+## Software
 
-I'm also the main developper of many Robotics softwares, among them [Pinocchio](https://github.com/stack-of-tasks/pinocchio), dedicated to the fast and efficient computations of Rigid Body Dynamics equations together with their analytical derivatives.
+I'm also the main developper of many Robotics softwares, among them:
+- [Pinocchio](https://github.com/stack-of-tasks/pinocchio), dedicated to the fast and efficient computations of Rigid Body Dynamics equations together with their analytical derivatives,
+- [hpp-fcl]()
