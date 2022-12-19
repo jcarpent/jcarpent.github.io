@@ -7,6 +7,7 @@ description: <a href="https://www.di.ens.fr/willow/">Inria, Ecole Normale Supér
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Inria Paris</p>
     <p>2 rue Simone IFF</p>
