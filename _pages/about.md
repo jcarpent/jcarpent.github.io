@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.di.ens.fr/willow/">Inria, Ecole Normale Supérieure, Paris, France </a>.
+subtitle: <a href="https://www.di.ens.fr/willow/">Inria, École normale supérieure, Paris, France</a>.
 
 profile:
   align: right
