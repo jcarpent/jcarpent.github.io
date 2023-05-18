@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /repositories/
-title: Repositories
+permalink: /sofware/
+title: Software
 description:
 nav: true
 nav_order: 3
