@@ -29,6 +29,11 @@ My research was at this time devoted to the understanding of the computational f
 
 I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
+# Joining
+
+Within [Willow](https://www.di.ens.fr/willow/), we always seek for talented post-doc candidates and engineers to work with us on challenging robotic problems.
+Fill this [form](https://tinyurl.com/yvp77bs3) and I will come back to you to discuss about our various opportunities.
+
 # Overview
 
 In February 2023, I gave a talk to the [IEEE RAS TC on Model-based Optimization for Robotics](https://www.tcoptrob.org/) entitled **Progress and Prospects in Optimisation for Learning and Control in Robotics**, which highlights our recent contributions to the field.
