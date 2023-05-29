@@ -29,7 +29,7 @@ My research was at this time devoted to the understanding of the computational f
 
 I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://orb.iwr.uni-heidelberg.de) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
-# Joining
+# Open positions
 
 At [Willow](https://www.di.ens.fr/willow/), we always seek for talented post-doc candidates and engineers to work with us on challenging robotic problems.
 Fill this [form](https://forms.gle/psFnCibYby3kw6nA8) and I will come back to you to discuss about our various opportunities.
@@ -64,7 +64,7 @@ I have also the pleasure to work with passionate and inspiring students:
 
 - [Mégane Millan](https://fr.linkedin.com/in/megane-millan-0a1791125), software engineer
 
-#### Former PhD students, engineers, master students
+#### Alumni
 
 - [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
