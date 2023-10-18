@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 # Biography
 
-I'm researcher and tead leader of the [Willow research group](https://www.di.ens.fr/willow/).
-My research activities revolves at the interface of Robotics, Perception, Machine Learning and Control.
+I'm researcher in the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr) and team leader of the [Willow research group](https://www.di.ens.fr/willow/).
+My research activities revolves around Robotics, Perception, Machine Learning, Optimization and Control.
 
 In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral fellow.
 Before that, I was a postdoctoral researcher inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
