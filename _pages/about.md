@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Inria Paris</p>
-    <p>2 rue Simone IFF</p>
+    <p>48 rue Barrault</p>
     <p>Paris, France</p>
 
 news: false  # includes a list of news items
