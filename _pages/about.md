@@ -60,6 +60,7 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Oumayma Bounou](https://oumayb.github.io/), together with [Jean Ponce](https://www.di.ens.fr/~ponce/).
 - [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), together with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
+- [Roland Andrews](https://fr.linkedin.com/in/roland-andrews/fr?original_referer=https%3A%2F%2Fwww.google.com%2F), together with [Adrien Taylor](https://adrientaylor.github.io/).
 
 #### Post-docs
 
@@ -71,11 +72,17 @@ I have also the pleasure to work with passionate and inspiring students:
 
 #### Engineers
 
-- [Mégane Millan](https://fr.linkedin.com/in/megane-millan-0a1791125), software engineer.
+- [Mégane Millan](https://fr.linkedin.com/in/megane-millan-0a1791125), Pinocchio software engineer.
 - [Joris Vaillant](https://github.com/jorisv), guru of the Willow open-source software stack.
 - [Olivier Roussel](https://team.inria.fr/rainbow/olivier-roussel/), Tirrex sotware engineer together with [Christian Duriez](https://fr.linkedin.com/in/christian-duriez-5613094) and [Fabien Spindler](https://team.inria.fr/rainbow/fabien-spindler/).
 - [Pierre-Guillaume Raverdy](https://fr.linkedin.com/in/pgraverdy), co-head of the Inria robotics lab.
 - [Etienne Arlaud](https://fr.linkedin.com/in/etiennearlaud?original_referer=https%3A%2F%2Fwww.google.com%2F), co-head of the Inria robotics lab.
+
+#### Visitors
+
+- [Bruce Wingo](https://bwingo47.github.io/), advised by [Seth Hutchinson](https://faculty.cc.gatech.edu/~seth/).
+- [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
+- [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), advised by [Joris De Schutter](https://scholar.google.be/citations?user=O7TuS8sAAAAJ&hl=nl&oi=ao) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
 
 #### Alumni
 
