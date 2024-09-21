@@ -23,8 +23,11 @@ social: true  # includes social icons at the bottom of the page
 I'm researcher in the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr) and team leader of the [Willow research group](https://www.di.ens.fr/willow/).
 My research activities revolves around Robotics, Perception, Machine Learning, Optimization and Control.
 
-In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral fellow.
-Before that, I was a postdoctoral researcher inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
+In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
+ARTIFACT will start in 2025. If you are interested to join this adventure, don't hesitate to contact me.
+
+In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral researcher fellow.
+Before that, I was a postdoctoral researcher fellow inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
 From 2014 to 2017, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
 My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I highligthed some mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
 
