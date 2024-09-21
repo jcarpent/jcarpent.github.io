@@ -50,24 +50,33 @@ My reseach is done in collaboration with:
 
 I have also the pleasure to work with passionate and inspiring students:
 
-- [Antoine Bambade](https://bambade.github.io/), together with [Adrien Taylor](https://adrientaylor.github.io/)
-- [Quentin Le-Lidec](https://quentinll.github.io/), together with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/)
-- [Louis Montaut](https://lmontaut.github.io/), together with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/)
-- [Wilson Jallet](https://manifoldfr.github.io/), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard)
-- [Oumayma Bounou](https://oumayb.github.io/), together with [Jean Ponce](https://www.di.ens.fr/~ponce/)
-- [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en)
+- [Quentin Le-Lidec](https://quentinll.github.io/), together with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/).
+- [Louis Montaut](https://lmontaut.github.io/), together with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
+- [Wilson Jallet](https://manifoldfr.github.io/), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
+- [Oumayma Bounou](https://oumayb.github.io/), together with [Jean Ponce](https://www.di.ens.fr/~ponce/).
+- [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
+- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), together with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 
 #### Post-docs
 
-- [Etienne Moullet](https://fr.linkedin.com/in/etienne-moullet-a133a752), together with [François Bailly](https://fbailly.github.io/) and [Christine Azevedo](https://fr.linkedin.com/in/christine-azevedo-31406a145)
+- [Etienne Moullet](https://fr.linkedin.com/in/etienne-moullet-a133a752), together with [François Bailly](https://fbailly.github.io/) and [Christine Azevedo](https://fr.linkedin.com/in/christine-azevedo-31406a145).
+- [Etienne Ménager](https://fr.linkedin.com/in/etienne-m%C3%A9nager-6679b7127), differentiable simulation and optimal control for soft robots. 
+- [Frederike Dümbgen](https://duembgen.github.io/), global optimal control and estimation for robotics.
+- [Ewen Dantec](https://edantec.github.io/), whole-body and real-time model predictive control for rich contact interactions.
+- [Ajay Sathya](https://fr.linkedin.com/in/ajay-sathya-438b0144), low-complexity algortihms for frugal and contact-rich simulation.
 
 #### Engineers
 
-- [Mégane Millan](https://fr.linkedin.com/in/megane-millan-0a1791125), software engineer
+- [Mégane Millan](https://fr.linkedin.com/in/megane-millan-0a1791125), software engineer.
+- [Joris Vaillant](https://github.com/jorisv), guru of the Willow open-source software stack.
+- [Olivier Roussel](https://team.inria.fr/rainbow/olivier-roussel/), Tirrex sotware engineer together with [Christian Duriez](https://fr.linkedin.com/in/christian-duriez-5613094) and [Fabien Spindler](https://team.inria.fr/rainbow/fabien-spindler/).
+- [Pierre-Guillaume Raverdy](https://fr.linkedin.com/in/pgraverdy), co-head of the Inria robotics lab.
+- [Etienne Arlaud](https://fr.linkedin.com/in/etiennearlaud?original_referer=https%3A%2F%2Fwww.google.com%2F), co-head of the Inria robotics lab.
 
 #### Alumni
 
-- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer.
+- [Antoine Bambade](https://bambade.github.io/), together with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
+- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra guru at Nvidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student. Now PhD student at NYU with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 
