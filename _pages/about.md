@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 # Biography
 
-I'm researcher in the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr) and team leader of the [Willow research group](https://www.di.ens.fr/willow/).
+I'm researcher in the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
+Since August 2023, I'm the team leader of the [Willow research group](https://www.di.ens.fr/willow/).
 My research activities revolves around Robotics, Perception, Machine Learning, Optimization and Control.
 
 In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
