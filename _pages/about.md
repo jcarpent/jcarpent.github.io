@@ -13,7 +13,7 @@ social: true  # includes social icons at the bottom of the page
   <img src="../assets/img/juju_uaua.jpg" width="700" alt="Me and UaUa" align="center"/>
 </p>
 <p align="center">
-  Me and UaUa, a very brave puppy learning to become a guide dog.
+  Me and Uarior, a very brave puppy learning to become a guide dog.
 </p>
 
 # Biography
