@@ -11,6 +11,8 @@ social: true  # includes social icons at the bottom of the page
 
 <p align="center">
   <img src="../assets/img/juju_uaua.jpg" width="600" alt="Me and UaUa" align="center"/>
+</p>
+<p align="center">
   Me and UaUa, a very brave puppy learning to become a guide dog.
 </p>
 
