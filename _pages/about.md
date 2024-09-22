@@ -9,6 +9,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<p align="center">
+  <img src="../assets/img/juju_uaua.jpg" width="800" alt="Me and UaUa" align="center"/>
+</p>
+
 # Biography
 
 I'm researcher in the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
