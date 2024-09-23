@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 # Biography
 
-I'm researcher in the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
+I'm a robotics researcher at [Inria](https://www.inria.fr/en), attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
 Since August 2023, I'm the team leader of the [Willow research group](https://www.di.ens.fr/willow/).
 My research activities revolves around Robotics, Perception, Machine Learning, Optimization and Control.
 
