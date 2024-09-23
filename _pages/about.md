@@ -10,7 +10,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p align="center">
-  <img src="../assets/img/juju_uaua.jpg" width="700" alt="Me and UaUa" align="center"/>
+  <img src="../assets/img/juju_uaua.jpg" width="700" alt="Me and UaUa" align="center" data-zoomable/>
 </p>
 <p align="center">
   Me and Uarior, a very brave puppy learning to become a guide dog.
