@@ -42,7 +42,7 @@ Fill this [form](https://forms.gle/psFnCibYby3kw6nA8) and I will come back to yo
 In February 2023, I gave a talk to the [IEEE RAS TC on Model-based Optimization for Robotics](https://www.tcoptrob.org/) entitled **Progress and Prospects in Optimisation for Learning and Control in Robotics**, which highlights our recent contributions to the field.
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tG64oj5GrsE?start=57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-</br>
+<br>
 
 # Main collaborators
 
