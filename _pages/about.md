@@ -42,6 +42,7 @@ Fill this [form](https://forms.gle/psFnCibYby3kw6nA8) and I will come back to yo
 In February 2023, I gave a talk to the [IEEE RAS TC on Model-based Optimization for Robotics](https://www.tcoptrob.org/) entitled **Progress and Prospects in Optimisation for Learning and Control in Robotics**, which highlights our recent contributions to the field.
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tG64oj5GrsE?start=57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+</br>
 
 # Main collaborators
 
@@ -84,7 +85,8 @@ I have also the pleasure to work with passionate and inspiring students:
 
 #### Alumni
 
-- [Antoine Bambade](https://bambade.github.io/), together with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
+- [Antoine Bambade](https://bambade.github.io/), PhD 2020-2023, co-supervised with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
+PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.fr/s253931?domaine=theses). 
 - [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra guru at Nvidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student. Now PhD student at NYU with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
