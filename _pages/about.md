@@ -60,6 +60,8 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), together with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 - [Roland Andrews](https://fr.linkedin.com/in/roland-andrews/fr?original_referer=https%3A%2F%2Fwww.google.com%2F), together with [Adrien Taylor](https://adrientaylor.github.io/).
+- [Ludovic De Matteis ](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
+- [Franki Nguimatsia Tiofack](https://fr.linkedin.com/in/frankinguimatsia).
 
 #### Post-docs
 
@@ -77,7 +79,7 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Pierre-Guillaume Raverdy](https://fr.linkedin.com/in/pgraverdy), co-head of the Inria robotics lab.
 - [Etienne Arlaud](https://fr.linkedin.com/in/etiennearlaud?original_referer=https%3A%2F%2Fwww.google.com%2F), co-head of the Inria robotics lab.
 
-#### Visitors
+#### PhD visitors
 
 - [Bruce Wingo](https://bwingo47.github.io/), advised by [Seth Hutchinson](https://faculty.cc.gatech.edu/~seth/).
 - [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
