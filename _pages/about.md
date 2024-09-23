@@ -89,7 +89,7 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student. Now PhD student at NYU with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 
-In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](http://projects.laas.fr/gepetto/index.php/Members/>  \AndreaDelPrete) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
+In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](https://andreadelprete.github.io/) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
 
 ## Software
 
