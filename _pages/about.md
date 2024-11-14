@@ -20,10 +20,10 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a robotics researcher at [Inria](https://www.inria.fr/en), attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
 Since August 2023, I'm the team leader of the [Willow research group](https://www.di.ens.fr/willow/).
-My research activities revolves around Robotics, Perception, Machine Learning, Optimization and Control.
+My research activities revolves around Perception, Machine Learning, Optimization and Control for Robotics.
 
 In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
-ARTIFACT will start in 2025. If you are interested to join this adventure, don't hesitate to contact me.
+ARTIFACT will start in 2025. If you are interested to join this adventure, feel free to contact me.
 
 In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral researcher fellow.
 Before that, I was a postdoctoral researcher fellow inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
@@ -89,7 +89,7 @@ I have also the pleasure to work with passionate and inspiring students:
 
 - [Antoine Bambade](https://bambade.github.io/), PhD 2020-2023, co-supervised with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
 PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.fr/s253931?domaine=theses). 
-- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra guru at Nvidia.
+- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra specialist at Nvidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student. Now PhD student at NYU with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 
