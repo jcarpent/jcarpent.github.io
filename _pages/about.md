@@ -53,12 +53,7 @@ My reseach is done in collaboration with:
 
 I have also the pleasure to work with passionate and inspiring students:
 
-- [Quentin Le-Lidec](https://quentinll.github.io/), together with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/).
-- [Louis Montaut](https://lmontaut.github.io/), together with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
-- [Wilson Jallet](https://manifoldfr.github.io/), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
-- [Oumayma Bounou](https://oumayb.github.io/), together with [Jean Ponce](https://www.di.ens.fr/~ponce/).
 - [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
-- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), together with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 - [Roland Andrews](https://fr.linkedin.com/in/roland-andrews/fr?original_referer=https%3A%2F%2Fwww.google.com%2F), together with [Adrien Taylor](https://adrientaylor.github.io/).
 - [Ludovic De Matteis ](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
 - [Franki Nguimatsia Tiofack](https://fr.linkedin.com/in/frankinguimatsia).
@@ -70,6 +65,9 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Frederike Dümbgen](https://duembgen.github.io/), global optimal control and estimation for robotics.
 - [Ewen Dantec](https://edantec.github.io/), whole-body and real-time model predictive control for rich contact interactions.
 - [Ajay Sathya](https://fr.linkedin.com/in/ajay-sathya-438b0144), low-complexity algortihms for frugal and contact-rich simulation.
+- [Wilson Jallet](https://manifoldfr.github.io/), non-smooth optimization for rich contact interactions, [Aligator](https://github.com/Simple-Robotics/aligator) guru. Formely, PhD 2021-2024, co-supervised with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard)
+- [Louis Montaut](https://lmontaut.github.io/), differentiable simulation for contact-rich robotics, [Coal](https://github.com/coal-library/coal) guru. Formely, PhD 2020-2024 co-supervised with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
+- [Quentin Le-Lidec](https://quentinll.github.io/), differentiable simulation for contact-rich robotics. Formely, PhD 2021-2024 co-supervised with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/).
 
 #### Engineers
 
@@ -82,16 +80,17 @@ I have also the pleasure to work with passionate and inspiring students:
 #### PhD visitors
 
 - [Bruce Wingo](https://bwingo47.github.io/), advised by [Seth Hutchinson](https://faculty.cc.gatech.edu/~seth/).
-- [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
 - [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), advised by [Joris De Schutter](https://scholar.google.be/citations?user=O7TuS8sAAAAJ&hl=nl&oi=ao) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
 
 #### Alumni
 
+- [Oumayma Bounou](https://oumayb.github.io/), PhD 2020-2024, co-supervised with [Jean Ponce](https://www.di.ens.fr/~ponce/). Now Post-doc at NYU with Yann Lecun.
 - [Antoine Bambade](https://bambade.github.io/), PhD 2020-2023, co-supervised with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
 PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.fr/s253931?domaine=theses). 
 - [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra specialist at Nvidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
-- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student. Now PhD student at NYU with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
+- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student summer 2019 in Willlow, PhD 2020-2024 co-supervised with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
+- [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
 
 In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](https://andreadelprete.github.io/) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
 
