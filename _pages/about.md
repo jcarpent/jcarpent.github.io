@@ -30,7 +30,7 @@ Before that, I was a postdoctoral researcher fellow inside the [Gepetto research
 From 2014 to 2017, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
 My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I highligthed some mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
 
-I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure de Cachan](http://www.ens-cachan.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group with Katja Mombaur at the University of Heidelberg, Germany. 
+I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
 # Open positions
 
@@ -92,7 +92,7 @@ PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic pro
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student summer 2019 in Willlow, PhD 2020-2024 co-supervised with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 - [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
 
-In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](https://andreadelprete.github.io/) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
+In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/hugo/), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](https://andreadelprete.github.io/) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
 
 ## Software
 
