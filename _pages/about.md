@@ -30,7 +30,7 @@ Before that, I was a postdoctoral researcher fellow inside the [Gepetto research
 From 2014 to 2017, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
 My research was at this time devoted to the understanding of the computational fundations of anthropomorphic locomotion. On one side, I highligthed some mechanismes underlying bipedalism among human beings. On the other side, I developed new mathematical formulations for the locomotion of humanoid robots.
 
-I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/version-anglaise/) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group with Katja Mombaur at the University of Heidelberg, Germany. 
+I received my degree in Computer Science and Applied Mathematics with highest honor from [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2013. In 2014, I was a visiting student inside the [Optimization in Robotics and Biomechanics](http://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group with Katja Mombaur at the University of Heidelberg, Germany. 
 
 # Open positions
 
