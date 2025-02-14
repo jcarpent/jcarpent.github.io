@@ -3,9 +3,11 @@ github_users:
 
 github_repos:
   - stack-of-tasks/pinocchio
-  - humanoid-path-planner/hpp-fcl
+  - coal-library/coal/
+  - Simple-Robotics/proxsuite
+  - Simple-Robotics/pycppad
+  - Simple-Robotics/aligator
+  - Simple-Robotics/simple
   - stack-of-tasks/eigenpy
   - loco-3d/crocoddyl
   - jrl-umi3218/jrl-cmakemodules
-  - Simple-Robotics/proxsuite
-  - Simple-Robotics/pycppad
