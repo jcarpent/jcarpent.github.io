@@ -74,8 +74,8 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Mégane Millan](https://fr.linkedin.com/in/megane-millan-0a1791125), Pinocchio software engineer.
 - [Joris Vaillant](https://github.com/jorisv), guru of the Willow open-source software stack.
 - [Olivier Roussel](https://team.inria.fr/rainbow/olivier-roussel/), Tirrex sotware engineer together with [Christian Duriez](https://fr.linkedin.com/in/christian-duriez-5613094) and [Fabien Spindler](https://team.inria.fr/rainbow/fabien-spindler/).
-- [Pierre-Guillaume Raverdy](https://fr.linkedin.com/in/pgraverdy), co-head of the Inria robotics lab.
-- [Etienne Arlaud](https://fr.linkedin.com/in/etiennearlaud?original_referer=https%3A%2F%2Fwww.google.com%2F), co-head of the Inria robotics lab.
+- [Pierre-Guillaume Raverdy](https://fr.linkedin.com/in/pgraverdy), manager of the Inria robotics facilities.
+- [Etienne Arlaud](https://fr.linkedin.com/in/etiennearlaud?original_referer=https%3A%2F%2Fwww.google.com%2F), manager of the Inria robotics facilities.
 
 #### PhD visitors
 
