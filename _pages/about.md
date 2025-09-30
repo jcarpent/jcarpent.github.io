@@ -23,7 +23,8 @@ Since August 2023, I'm the team leader of the [Willow research group](https://ww
 My research activities revolves around Perception, Machine Learning, Optimization and Control for Robotics.
 
 In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
-ARTIFACT will start in 2025. If you are interested to join this adventure, feel free to contact me.
+ARTIFACT have started in September 2025. 
+If you are interested to join this adventure, feel free to contact me.
 
 In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral researcher fellow.
 Before that, I was a postdoctoral researcher fellow inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
@@ -55,7 +56,6 @@ I have also the pleasure to work with passionate and inspiring students:
 
 - [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
 - [Roland Andrews](https://fr.linkedin.com/in/roland-andrews/fr?original_referer=https%3A%2F%2Fwww.google.com%2F), together with [Adrien Taylor](https://adrientaylor.github.io/).
-- [Ludovic De Matteis ](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
 - [Franki Nguimatsia Tiofack](https://fr.linkedin.com/in/frankinguimatsia).
 
 #### Post-docs
@@ -76,6 +76,8 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Olivier Roussel](https://team.inria.fr/rainbow/olivier-roussel/), Tirrex sotware engineer together with [Christian Duriez](https://fr.linkedin.com/in/christian-duriez-5613094) and [Fabien Spindler](https://team.inria.fr/rainbow/fabien-spindler/).
 - [Pierre-Guillaume Raverdy](https://fr.linkedin.com/in/pgraverdy), manager of the Inria robotics facilities.
 - [Etienne Arlaud](https://fr.linkedin.com/in/etiennearlaud?original_referer=https%3A%2F%2Fwww.google.com%2F), manager of the Inria robotics facilities.
+- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Back from NVidia.
+- [Lucas Haubert](https://fr.linkedin.com/in/lucas-haubert-b668a421a), research engineer on optimization solvers for robotics and beyond.
 
 #### PhD visitors
 
@@ -84,10 +86,11 @@ I have also the pleasure to work with passionate and inspiring students:
 
 #### Alumni
 
+- [Ludovic De Matteis ](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
 - [Oumayma Bounou](https://oumayb.github.io/), PhD 2020-2024, co-supervised with [Jean Ponce](https://www.di.ens.fr/~ponce/). Now Post-doc at NYU with Yann Lecun.
 - [Antoine Bambade](https://bambade.github.io/), PhD 2020-2023, co-supervised with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
 PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.fr/s253931?domaine=theses). 
-- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra specialist at Nvidia.
+- [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra specialist at NVidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
 - [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student summer 2019 in Willlow, PhD 2020-2024 co-supervised with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
 - [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
