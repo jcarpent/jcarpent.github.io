@@ -82,7 +82,7 @@ I have also the pleasure to work with passionate and inspiring students:
 #### PhD visitors
 
 - [Bruce Wingo](https://bwingo47.github.io/), advised by [Seth Hutchinson](https://faculty.cc.gatech.edu/~seth/).
-- [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), advised by [Joris De Schutter](https://scholar.google.be/citations?user=O7TuS8sAAAAJ&hl=nl&oi=ao) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
+- [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), advised by [Joris De Schutter](https://scholar.google.com/citations?user=pdYQQ3wAAAAJ&hl=en) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
 
 #### Alumni
 
@@ -92,7 +92,7 @@ I have also the pleasure to work with passionate and inspiring students:
 PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.fr/s253931?domaine=theses). 
 - [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra specialist at NVidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
-- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student summer 2019 in Willlow, PhD 2020-2024 co-supervised with [Ludovic Righetti](https://wp.nyu.edu/machinesinmotion/).
+- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student summer 2019 in Willlow, PhD 2020-2024 co-supervised with [Ludovic Righetti](https://www.machinesinmotion.org/).
 - [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
 
 In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/hugo/), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](https://andreadelprete.github.io/) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
