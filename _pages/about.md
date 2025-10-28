@@ -24,7 +24,7 @@ My research activities revolves around Perception, Machine Learning, Optimizatio
 
 In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
 ARTIFACT have started in September 2025. 
-If you are interested to join this adventure, feel free to contact me.
+If you are interested to join this adventure, feel free to [contact me](mailto:justin.carpentier@inria.fr).
 
 In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral researcher fellow.
 Before that, I was a postdoctoral researcher fellow inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
