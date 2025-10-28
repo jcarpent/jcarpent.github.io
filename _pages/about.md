@@ -62,12 +62,13 @@ I have also the pleasure to work with passionate and inspiring students:
 
 #### Post-docs
 
+- [Yann de Mont-Marin](https://ymontmarin.github.io/), differentiable simulation and geometric learning. Formely, PhD student (2020-2024) in Willow under the supervision of [Jean Ponce](https://www.di.ens.fr/~ponce/) and [Jean-Paul Laumond](http://homepages.laas.fr/jpl). 
 - [Etienne Ménager](https://fr.linkedin.com/in/etienne-m%C3%A9nager-6679b7127), differentiable simulation and optimal control for soft robots. 
 - [Frederike Dümbgen](https://duembgen.github.io/), global optimal control and estimation for robotics.
 - [Ewen Dantec](https://edantec.github.io/), whole-body and real-time model predictive control for rich contact interactions.
 - [Ajay Sathya](https://fr.linkedin.com/in/ajay-sathya-438b0144), low-complexity algortihms for frugal and contact-rich simulation.
-- [Wilson Jallet](https://manifoldfr.github.io/), non-smooth optimization for rich contact interactions, [Aligator](https://github.com/Simple-Robotics/aligator) guru. Formely, PhD 2021-2024, co-supervised with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard)
-- [Louis Montaut](https://lmontaut.github.io/), differentiable simulation for contact-rich robotics, [Coal](https://github.com/coal-library/coal) guru. Formely, PhD 2020-2024 co-supervised with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
+- [Wilson Jallet](https://manifoldfr.github.io/), non-smooth optimization for rich contact interactions, [Aligator](https://github.com/Simple-Robotics/aligator) guru. Formely, PhD student (2021-2024), co-supervised with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard)
+- [Louis Montaut](https://lmontaut.github.io/), differentiable simulation for contact-rich robotics, [Coal](https://github.com/coal-library/coal) guru. Formely, PhD student (2020-2024) co-supervised with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
 
 #### Engineers
 
