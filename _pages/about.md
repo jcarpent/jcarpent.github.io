@@ -57,17 +57,17 @@ I have also the pleasure to work with passionate and inspiring students:
 - [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
 - [Roland Andrews](https://fr.linkedin.com/in/roland-andrews/fr?original_referer=https%3A%2F%2Fwww.google.com%2F), together with [Adrien Taylor](https://adrientaylor.github.io/).
 - [Franki Nguimatsia Tiofack](https://fr.linkedin.com/in/frankinguimatsia).
+- [Théotime Le Hellard](http://www.linkedin.com/in/theotime-le-hellard-a3a066249).
+- [Mathis Scheffler](https://fr.linkedin.com/in/mathis-scheffler-24642921a) together with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
 
 #### Post-docs
 
-- [Etienne Moullet](https://fr.linkedin.com/in/etienne-moullet-a133a752), together with [François Bailly](https://fbailly.github.io/) and [Christine Azevedo](https://fr.linkedin.com/in/christine-azevedo-31406a145).
 - [Etienne Ménager](https://fr.linkedin.com/in/etienne-m%C3%A9nager-6679b7127), differentiable simulation and optimal control for soft robots. 
 - [Frederike Dümbgen](https://duembgen.github.io/), global optimal control and estimation for robotics.
 - [Ewen Dantec](https://edantec.github.io/), whole-body and real-time model predictive control for rich contact interactions.
 - [Ajay Sathya](https://fr.linkedin.com/in/ajay-sathya-438b0144), low-complexity algortihms for frugal and contact-rich simulation.
 - [Wilson Jallet](https://manifoldfr.github.io/), non-smooth optimization for rich contact interactions, [Aligator](https://github.com/Simple-Robotics/aligator) guru. Formely, PhD 2021-2024, co-supervised with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard)
 - [Louis Montaut](https://lmontaut.github.io/), differentiable simulation for contact-rich robotics, [Coal](https://github.com/coal-library/coal) guru. Formely, PhD 2020-2024 co-supervised with [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
-- [Quentin Le-Lidec](https://quentinll.github.io/), differentiable simulation for contact-rich robotics. Formely, PhD 2021-2024 co-supervised with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/).
 
 #### Engineers
 
@@ -82,17 +82,22 @@ I have also the pleasure to work with passionate and inspiring students:
 #### PhD visitors
 
 - [Bruce Wingo](https://bwingo47.github.io/), advised by [Seth Hutchinson](https://faculty.cc.gatech.edu/~seth/).
-- [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), advised by [Joris De Schutter](https://scholar.google.com/citations?user=pdYQQ3wAAAAJ&hl=en) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
 
 #### Alumni
 
+- [Etienne Moullet](https://fr.linkedin.com/in/etienne-moullet-a133a752), post-doc (2022-2025) together with [François Bailly](https://fbailly.github.io/) and [Christine Azevedo](https://fr.linkedin.com/in/christine-azevedo-31406a145). Now post-doc at ISIR-UPMC.
+- [Quentin Le-Lidec](https://quentinll.github.io/), post-doc (2024-2025) on differentiable simulation for contact-rich robotics, and PhD student (2021-2024) co-supervised with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/). Now Post-doc at NYU with [Yann Lecun](http://yann.lecun.com/).
+PhD thesis: [Differentiable optimization for robotics: simulation, learning and control](https://hal.science/tel-04876283). 
 - [Ludovic De Matteis ](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
-- [Oumayma Bounou](https://oumayb.github.io/), PhD 2020-2024, co-supervised with [Jean Ponce](https://www.di.ens.fr/~ponce/). Now Post-doc at NYU with Yann Lecun.
-- [Antoine Bambade](https://bambade.github.io/), PhD 2020-2023, co-supervised with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
-PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.fr/s253931?domaine=theses). 
+- [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), PhD visitor advised by [Joris De Schutter](https://scholar.google.com/citations?user=pdYQQ3wAAAAJ&hl=en) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
+- [Oumayma Bounou](https://oumayb.github.io/), PhD student (2020-2024), co-supervised with [Jean Ponce](https://www.di.ens.fr/~ponce/). Now Post-doc at NYU with [Yann Lecun](http://yann.lecun.com/).
+PhD thesis: [Learning System Dynamics from Sensory Input under Optimal Control Principles](https://theses.hal.science/INRIA/hal-04661974v2). 
+- [Antoine Bambade](https://bambade.github.io/), PhD student (2020-2023), co-supervised with [Adrien Taylor](https://adrientaylor.github.io/). Now Research Scientist at EDF.
+PhD thesis: [Primal-dual proximal augmented lagrangian methods for quadratic programming: theory and implementation](https://theses.hal.science/tel-05007212/). 
 - [Sarah El-Kazdadi](https://fr.linkedin.com/in/sarah-kazdadi-059b94210), PhD student then software engineer. Now Linear Algebra specialist at NVidia.
 - [Rohan Budhiraja](https://github.com/proyan), software engineer. Now at SquareMind.
-- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), M2 student summer 2019 in Willlow, PhD 2020-2024 co-supervised with [Ludovic Righetti](https://www.machinesinmotion.org/).
+- [Armand Jordana](https://www.linkedin.com/in/armand-jordana-0922b2152), PhD student (2020-2024) co-supervised with [Ludovic Righetti](https://www.machinesinmotion.org/), M2 student summer 2019 in Willlow. Now post-doc at LAAS-CNRS.
+PhD thesis: [Reasoning About Perception Uncertainty in Nonlinear Model Predictive Control](https://www.proquest.com/openview/b9a0964320baeea9bdcde4bc597fe9c1/1?cbl=18750&diss=y&pq-origsite=gscholar). 
 - [Kateryna Zorina](https://ua.linkedin.com/in/kateryna-zorina), advised by [Josef Sivic](https://www.di.ens.fr/~josef/) and [Vladimír Petrík](https://petrikvladimir.github.io/).
 
 In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laas.fr/jpl), [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/hugo/), [Mehdi Bennalegue](http://mehdi.benallegue.com), [Andrea Del Prete](https://andreadelprete.github.io/) and [Steve Tonneau](http://www.stevetonneau.fr) for the Robotics perspectives.
