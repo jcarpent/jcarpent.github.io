@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 # Biography
 
-I am a robotics researcher at [Inria](https://www.inria.fr/en) and head of the [Willow research group](https://www.di.ens.fr/willow/), a joint research team ([Inria](https://www.inria.fr/en),[ENS](https://www.ens.fr),[CNRS](https://www.cnrs.fr)) attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
+I am a robotics researcher at [Inria](https://www.inria.fr/en) and head of the [Willow research group](https://www.di.ens.fr/willow/), a joint research team ([Inria](https://www.inria.fr/en), [ENS](https://www.ens.fr), [CNRS](https://www.cnrs.fr)) attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
 My research activities revolves around Perception, Learning, Optimization and Control for Robotics.
 
 In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
