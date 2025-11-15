@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 # Biography
 
-I'm a robotics researcher at [Inria](https://www.inria.fr/en), attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
-Since August 2023, I'm the head of the [Willow research group](https://www.di.ens.fr/willow/).
-My research activities revolves around Perception, Machine Learning, Optimization and Control for Robotics.
+I'm a robotics researcher at [Inria](https://www.inria.fr/en) and head of the [Willow research group](https://www.di.ens.fr/willow/), a joint research team ([Inria](https://www.inria.fr/en)|[ENS](https://www.ens.fr)|[CNRS](https://www.cnrs.fr)) attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
+
+My research activities revolves around Perception, Learning, Optimization and Control for Robotics.
 
 In September 2024, I have been awarded an ERC Starting Grant for my research [project ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), standing for **The ARTIficial Motion FACTory**. 
 ARTIFACT have started in September 2025. 
@@ -38,7 +38,7 @@ I received my degree in Computer Science and Applied Mathematics with highest ho
 At [Willow](https://www.di.ens.fr/willow/), we always seek for talented post-doc candidates and engineers to work with us on challenging robotic problems.
 Fill this [form](https://forms.gle/psFnCibYby3kw6nA8) and I will come back to you to discuss about our various opportunities.
 
-# Overview
+# Research overview
 
 In February 2023, I gave a talk to the [IEEE RAS TC on Model-based Optimization for Robotics](https://www.tcoptrob.org/) entitled **Progress and Prospects in Optimisation for Learning and Control in Robotics**, which highlights our recent contributions to the field.
 
@@ -48,17 +48,15 @@ In February 2023, I gave a talk to the [IEEE RAS TC on Model-based Optimization 
 # Main collaborators
 
 My reseach is done in collaboration with:
-[Francis Bach](https://www.di.ens.fr/~fbach/), [Adrien Taylor](https://adrientaylor.github.io/), [Stéphane Caron](https://scaron.info/), [Jean Ponce](https://www.di.ens.fr/~ponce/), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/), [Josef Sivic](https://www.di.ens.fr/~josef/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/) for the Machine Learning and Vision aspects.
+[Francis Bach](https://www.di.ens.fr/~fbach/), [Adrien Taylor](https://adrientaylor.github.io/), [Stéphane Caron](https://scaron.info/), [Jean Ponce](https://www.di.ens.fr/~ponce/), [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/), [Josef Sivic](https://www.di.ens.fr/~josef/), [Ivan Laptev](https://www.di.ens.fr/~laptev/) and with a crew of talented and pationate people:
 
 #### PhD students
-
-I have also the pleasure to work with passionate and inspiring students:
 
 - [Fabian Schramm](https://fr.linkedin.com/in/fabian-schramm-319919178), together with [Nicolas Perrin-Gilbert](https://www.isir.upmc.fr/personnel/perrin/?lang=en).
 - [Roland Andrews](https://fr.linkedin.com/in/roland-andrews/fr?original_referer=https%3A%2F%2Fwww.google.com%2F), together with [Adrien Taylor](https://adrientaylor.github.io/).
 - [Franki Nguimatsia Tiofack](https://fr.linkedin.com/in/frankinguimatsia).
 - [Théotime Le Hellard](http://www.linkedin.com/in/theotime-le-hellard-a3a066249).
-- [Mathis Scheffler](https://fr.linkedin.com/in/mathis-scheffler-24642921a) together with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
+- [Mathis Scheffler](https://fr.linkedin.com/in/mathis-scheffler-24642921a), together with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
 
 #### Post-docs
 
@@ -86,10 +84,12 @@ I have also the pleasure to work with passionate and inspiring students:
 
 #### Alumni
 
+Over the past few years, I had also the pleasure (and the chance) to work with passionate and inspiring people:
+
 - [Etienne Moullet](https://fr.linkedin.com/in/etienne-moullet-a133a752), post-doc (2022-2025) together with [François Bailly](https://fbailly.github.io/) and [Christine Azevedo](https://fr.linkedin.com/in/christine-azevedo-31406a145). Now post-doc at ISIR-UPMC.
 - [Quentin Le-Lidec](https://quentinll.github.io/), post-doc (2024-2025) on differentiable simulation for contact-rich robotics, and PhD student (2021-2024) co-supervised with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/). Now Post-doc at NYU with [Yann Lecun](http://yann.lecun.com/).
 PhD thesis: [Differentiable optimization for robotics: simulation, learning and control](https://hal.science/tel-04876283). 
-- [Ludovic De Matteis ](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
+- [Ludovic De Matteis](https://fr.linkedin.com/in/ludovic-de-matteis-087a4a225), together with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard).
 - [Lander Vanroye](https://www.mech.kuleuven.be/en/pma/research/robotics/people/00116913), PhD visitor advised by [Joris De Schutter](https://scholar.google.com/citations?user=pdYQQ3wAAAAJ&hl=en) and [Wilm Decré](https://scholar.google.be/citations?user=ZgAnArUAAAAJ&hl=nl). 
 - [Oumayma Bounou](https://oumayb.github.io/), PhD student (2020-2024), co-supervised with [Jean Ponce](https://www.di.ens.fr/~ponce/). Now Post-doc at NYU with [Yann Lecun](http://yann.lecun.com/).
 PhD thesis: [Learning System Dynamics from Sensory Input under Optimal Control Principles](https://theses.hal.science/INRIA/hal-04661974v2). 
@@ -105,7 +105,8 @@ In the past, I used to collaborate with [Jean-Paul Laumond](http://homepages.laa
 
 ## Software
 
-I'm also the main developper of many Robotics software, among them:
+I am also the lead developer of several open-source robotics software projects.
+I strongly believe that open-source technologies play a key role in advancing society by making cutting-edge research broadly accessible
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
