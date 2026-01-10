@@ -16,7 +16,6 @@ social: true  # includes social icons at the bottom of the page
 </div>
 </p>
 
-# Biography
 
 I am a robotics researcher at [Inria](https://www.inria.fr/en) and head of the [Willow research group](https://www.di.ens.fr/willow/), a joint research team ([Inria](https://www.inria.fr/en), [ENS](https://www.ens.fr), [CNRS](https://www.cnrs.fr)) attached to the [Computer Science department](https://www.di.ens.fr) at [ENS](https://www.ens.fr).
 My research activities revolves around Perception, Learning, Optimization and Control for Robotics.
@@ -25,6 +24,7 @@ In September 2024, I have been awarded an ERC Starting Grant for my research [pr
 ARTIFACT have started in September 2025. 
 If you are interested to join this adventure, feel free to [contact me](mailto:justin.carpentier@inria.fr).
 
+# Biography
 In September 2018, I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral researcher fellow.
 Before that, I was a postdoctoral researcher fellow inside the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, France.
 From 2014 to 2017, I was a PhD candidate in the same [Gepetto research group](http://projects.laas.fr/gepetto/index.php). 
