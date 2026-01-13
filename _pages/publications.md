@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: List of my publications. See also my <b><a href="https://scholar.google.fr/citations?hl=en&user=CyhIdmMAAAAJ">Google Scholar</a></b> profile.
+description: List of my publications.
 nav: true
 nav_order: 2
 ---
@@ -12,6 +12,8 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
+
+See also my **[https://scholar.google.fr/citations?hl=en&user=CyhIdmMAAAAJ](Google Scholar)** profile.
 
 <div class="publications">
 
