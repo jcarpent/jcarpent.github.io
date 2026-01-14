@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-See also my **[https://scholar.google.fr/citations?hl=en&user=CyhIdmMAAAAJ](Google Scholar)** profile.
+See also my **[Google Scholar](https://scholar.google.fr/citations?hl=en&user=CyhIdmMAAAAJ)** profile.
 
 <div class="publications">
 
