@@ -14,18 +14,19 @@ social: true # includes social icons at the bottom of the page
   <figcaption class="caption">With Uarior, a very brave puppy learning to become a guide dog.</figcaption>
 </figure>
 
-I am a research director at [Inria](https://www.inria.fr/en), specializing in robotics, and head of the [Willow research group](https://www.di.ens.fr/willow/). Willow is a joint team of [Inria](https://www.inria.fr/en), [ENS](https://www.ens.fr), and [CNRS](https://www.cnrs.fr), based in the [Department of Computer Science at ENS](https://www.di.ens.fr) in Paris.
-My research spans perception, learning, optimization, simulation, and control for robotics.
+**How can robots learn to move and interact with the physical world?** This question runs through my research, from understanding human locomotion to developing algorithms for robot learning and control. I bring together perception, optimization, machine learning and simulation to connect what a robot sees, what it learns, and how it acts.
 
-In September 2024, I was awarded an ERC Starting Grant for [ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), **The ARTIficial Motion FACTory**. The project began in September 2025. If you would like to join this research adventure, please [get in touch](mailto:justin.carpentier@inria.fr).
+I am a research director at [Inria](https://www.inria.fr/en) and head of the [Willow research group](https://www.di.ens.fr/willow/), a joint team of Inria, [École normale supérieure](https://www.ens.fr), and [CNRS](https://www.cnrs.fr), based in the [Department of Computer Science at ENS](https://www.di.ens.fr) in Paris. My work combines mathematical foundations with practical algorithms and open-source software, making the methods we develop available for others to study, use, and build upon.
+
+This research continues through [ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants)—**The ARTIficial Motion FACTory**—supported by an ERC Starting Grant awarded in September 2024. The project began in September 2025. If these questions resonate with you, explore our [open positions](#open-positions) or [get in touch](mailto:justin.carpentier@inria.fr).
 
 ## Biography
 
-I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoctoral researcher in September 2018. Previously, I was a postdoctoral researcher in the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse, where I also pursued my PhD from 2014 to 2017.
+My path into robotics began with a background in computer science and applied mathematics. I graduated with highest honors from [École normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2013. In 2014, I worked with Katja Mombaur as a visiting student in the [Optimization in Robotics and Biomechanics](https://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group at the University of Heidelberg, Germany.
 
-My doctoral research explored the computational foundations of anthropomorphic locomotion, from the mechanisms underlying human bipedalism to new mathematical formulations for humanoid robot locomotion.
+From 2014 to 2017, I pursued my PhD in the [Gepetto research group](http://projects.laas.fr/gepetto/index.php) at LAAS-CNRS in Toulouse. My doctoral research examined the computational foundations of anthropomorphic locomotion: how we can understand human walking and translate that understanding into mathematical formulations for humanoid robot motion. This work established a thread that continues through my research today—using mathematics to understand movement and turn that understanding into algorithms.
 
-I received my degree in Computer Science and Applied Mathematics with highest honors from [École normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2013. In 2014, I was a visiting student working with Katja Mombaur in the [Optimization in Robotics and Biomechanics](https://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group at the University of Heidelberg, Germany.
+After a postdoctoral appointment in Gepetto, I joined [Willow](https://www.di.ens.fr/willow/) as a postdoctoral researcher in September 2018. My research has since broadened from locomotion to the connections between perception, learning, simulation, and control, with physical interaction as a common focus.
 
 ## Open positions
 
