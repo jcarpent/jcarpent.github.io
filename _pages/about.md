@@ -10,7 +10,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <figure class="text-center">
-  <img src="{{ '/assets/img/juju_uaua.jpg' | relative_url }}" class="img-fluid rounded" width="700" alt="Justin with Uarior, a puppy training to become a guide dog" data-zoomable>
+  <img src="../assets/img/juju_uaua.jpg" class="img-fluid rounded" width="700" alt="Justin with Uarior, a puppy training to become a guide dog" data-zoomable>
   <figcaption class="caption">With Uarior, a very brave puppy learning to become a guide dog.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ At [Willow](https://www.di.ens.fr/willow/), we welcome talented postdoctoral res
 In February 2023, I gave a talk to the [IEEE RAS TC on Model-based Optimization for Robotics](https://www.tcoptrob.org/) entitled **Progress and Prospects in Optimisation for Learning and Control in Robotics**. The talk offers an overview of our contributions to the field at that time.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/tG64oj5GrsE?start=57" title="Progress and Prospects in Optimisation for Learning and Control in Robotics — February 2023" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe  src="https://www.youtube.com/embed/tG64oj5GrsE?si=X_4hrgrp9oJZ2AaL&amp;start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Collaborators and team
