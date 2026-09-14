@@ -14,11 +14,11 @@ social: true # includes social icons at the bottom of the page
   <figcaption class="caption">With Uarior, a very brave puppy learning to become a guide dog.</figcaption>
 </figure>
 
-**How can robots learn to move and interact with the physical world?** This question runs through my research, from understanding human locomotion to developing algorithms for robot learning and control. I bring together perception, optimization, machine learning and simulation to connect what a robot sees, what it learns, and how it acts.
+I am a research director at [Inria](https://www.inria.fr/en), where I lead the [Willow research group](https://www.di.ens.fr/willow/). Willow is a joint team of Inria, [École normale supérieure](https://www.ens.fr), and [CNRS](https://www.cnrs.fr), based in the [Department of Computer Science at ENS](https://www.di.ens.fr) in Paris.
 
-I am a research director at [Inria](https://www.inria.fr/en) and head of the [Willow research group](https://www.di.ens.fr/willow/), a joint team of Inria, [École normale supérieure](https://www.ens.fr), and [CNRS](https://www.cnrs.fr), based in the [Department of Computer Science at ENS](https://www.di.ens.fr) in Paris. My work combines mathematical foundations with practical algorithms and open-source software, making the methods we develop available for others to study, use, and build upon.
+My research focuses on physical AI, with the aim of giving robots the ability to reason about and act in the physical world. My approach brings together perception, optimization, machine learning, simulation, and control to help robots understand their surroundings, anticipate the consequences of their actions, and interact with their environment. I develop the mathematical foundations and computational tools that support these capabilities, with an emphasis on translating theoretical advances into practical algorithms and open-source software.
 
-This research continues through [ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants)—**The ARTIficial Motion FACTory**—supported by an ERC Starting Grant awarded in September 2024. The project began in September 2025. If these questions resonate with you, explore our [open positions](#open-positions) or [get in touch](mailto:justin.carpentier@inria.fr).
+In September 2024, I was awarded an ERC Starting Grant for [ARTIFACT](https://www.inria.fr/en/autonomous-robots-erc-grants), **The ARTIficial Motion FACTory**, which began in September 2025. If you are interested in contributing to this research, please see our [open positions](#open-positions) or [get in touch](mailto:justin.carpentier@inria.fr).
 
 ## Biography
 
