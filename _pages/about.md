@@ -4,9 +4,9 @@ title: About
 permalink: /
 subtitle: <a href="https://www.di.ens.fr/willow/">Inria, École normale supérieure, Paris, France</a>.
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 <figure class="text-center">
@@ -99,6 +99,7 @@ My earlier robotics collaborations include work with [Jean-Paul Laumond](http://
 I am the lead developer of several open-source robotics software projects. I believe open-source software helps advance both research and society by making cutting-edge methods broadly accessible.
 
 {% if site.data.repositories.github_repos %}
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}

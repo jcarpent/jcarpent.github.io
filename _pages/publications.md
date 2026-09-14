@@ -20,4 +20,3 @@ See also my [Google Scholar](https://scholar.google.fr/citations?hl=en&user=CyhI
 {% bibliography %}
 
 </div>
-
