@@ -25,7 +25,7 @@ I joined the [Willow research group](https://www.di.ens.fr/willow/) as a postdoc
 
 My doctoral research explored the computational foundations of anthropomorphic locomotion, from the mechanisms underlying human bipedalism to new mathematical formulations for humanoid robot locomotion.
 
-I received my degree in Computer Science and Applied Mathematics with highest honors from [École normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2013. In 2014, I was a visiting student working with Katja Mombaur in the [Optimization in Robotics and Biomechanics](http://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group at the University of Heidelberg, Germany.
+I received my degree in Computer Science and Applied Mathematics with highest honors from [École normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/en) in 2013. In 2014, I was a visiting student working with Katja Mombaur in the [Optimization in Robotics and Biomechanics](https://www.ziti.uni-heidelberg.de/de/forschung/em-orb.html) group at the University of Heidelberg, Germany.
 
 ## Open positions
 

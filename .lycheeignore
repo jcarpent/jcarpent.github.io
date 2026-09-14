@@ -1,2 +1,14 @@
 linkedin.com
 reddit.com
+
+# Google Scholar blocks automated requests (403).
+^https://scholar\.google\.(com|fr|be)/citations\?
+# This application form requires authentication (401 in CI).
+^https://forms\.gle/psFnCibYby3kw6nA8$
+# YouTube's embed endpoint rejects the checker; the video was verified via oEmbed.
+^https://www\.youtube-nocookie\.com/embed/tG64oj5GrsE(?:\?|$)
+# These external pages reject unauthenticated automated requests in CI.
+^https://stackoverflow\.com/questions/34987908/
+^https://unsplash\.com/$
+# This thesis preview loops through ProQuest's library-proxy redirect in automated checks.
+^https://www\.proquest\.com/openview/b9a0964320baeea9bdcde4bc597fe9c1/1\?
