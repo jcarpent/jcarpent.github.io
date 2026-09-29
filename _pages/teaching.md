@@ -13,6 +13,8 @@ The robotics class in the [MVA master's program](https://www.master-mva.com/) ex
 
 The teaching team brings together Justin Carpentier, [Yann Dubois De Mont Marin](https://ymontmarin.github.io/), [Silvère Bonnabel](https://sites.google.com/view/silvere-bonnabel/), and [Pierre-Brice Wieber](https://scholar.google.com/citations?user=zSSrBp4AAAAJ), with [Théotime Le Hellard](https://theotimelh.github.io/) as teaching assistant.
 
+Please [subscribe to the course mailing list](https://sympa.inria.fr/sympa/subscribe/robotics-mva26) to receive announcements and updates about the class.
+
 ### Course overview
 
 The class covers nine complementary topics, connecting the mathematical foundations of robot motion with perception, learning, and responsible deployment:
