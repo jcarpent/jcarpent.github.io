@@ -31,18 +31,18 @@ The class covers nine complementary topics, connecting the mathematical foundati
 
 Classes will take place mainly at **Mines de Paris**, from **09:00 to 12:00 (Paris time)** on the dates below. The session on 10 December will take place at the **Maison des Mines, rue Saint-Jacques**. Rooms with limited seating are marked in the table; the other rooms are larger.
 
-| Date (2026) | Time (Paris) | Room | Location | Capacity / notes |
-| --- | --- | --- | --- | --- |
-| 1 October | 09:00–12:00 | L106 | Mines de Paris | **Limited: 48 seats** |
-| 8 October | 09:00–12:00 | L108_B | Mines de Paris |  |
-| 15 October | 09:00–12:00 | L109 | Mines de Paris |  |
-| 22 October | 09:00–12:00 | L109 | Mines de Paris |  |
-| 5 November | To be confirmed | | To be confirmed | **Alternative arrangements to be confirmed** |
-| 12 November | 09:00–12:00 | FORGE_haut | Mines de Paris | **Limited: 48 seats**; directions below |
-| 19 November | 09:00–12:00 | L106 | Mines de Paris | **Limited: 48 seats** |
-| 26 November | 09:00–12:00 | FORGE_haut | Mines de Paris | **Limited: 48 seats**; directions below |
-| 3 December | 09:00–12:00 | L117 | Mines de Paris | **Limited: 46 seats** |
-| 10 December | 09:00–12:00 | MDM_F | Maison des Mines, rue Saint-Jacques | **Limited: 48 seats** |
+| Date (2026) | Time (Paris)    | Room       | Location                            | Capacity / notes                             |
+| ----------- | --------------- | ---------- | ----------------------------------- | -------------------------------------------- |
+| 1 October   | 09:00–12:00     | L106       | Mines de Paris                      | **Limited: 48 seats**                        |
+| 8 October   | 09:00–12:00     | L108_B     | Mines de Paris                      |                                              |
+| 15 October  | 09:00–12:00     | L109       | Mines de Paris                      |                                              |
+| 22 October  | 09:00–12:00     | L109       | Mines de Paris                      |                                              |
+| 5 November  | To be confirmed |            | To be confirmed                     | **Alternative arrangements to be confirmed** |
+| 12 November | 09:00–12:00     | FORGE_haut | Mines de Paris                      | **Limited: 48 seats**; directions below      |
+| 19 November | 09:00–12:00     | L106       | Mines de Paris                      | **Limited: 48 seats**                        |
+| 26 November | 09:00–12:00     | FORGE_haut | Mines de Paris                      | **Limited: 48 seats**; directions below      |
+| 3 December  | 09:00–12:00     | L117       | Mines de Paris                      | **Limited: 46 seats**                        |
+| 10 December | 09:00–12:00     | MDM_F      | Maison des Mines, rue Saint-Jacques | **Limited: 48 seats**                        |
 
 **Directions to FORGE_haut:** turn left after reception and continue to the far end, walking parallel to boulevard Saint-Michel. Go down the stairs, then continue in the same direction; the room is on your right.
 
