@@ -33,6 +33,10 @@ The class covers nine complementary topics, connecting the mathematical foundati
 
 Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 to 12:00 (Paris time)** on the dates below. The session on 10 December will take place at the **[Maison des Mines, rue Saint-Jacques][maison-map]**. Rooms with limited seating are marked in the table; the other rooms are larger.
 
+<p class="class-schedule-hint" id="class-schedule-hint">On small screens, swipe the table sideways to see all columns.</p>
+
+<div class="class-schedule" role="region" aria-label="Class locations and schedule" aria-describedby="class-schedule-hint" tabindex="0" markdown="1">
+
 | Date (2026) | Time (Paris)    | Room       | Location                                          | Capacity / notes                             |
 | ----------- | --------------- | ---------- | ------------------------------------------------- | -------------------------------------------- |
 | 1 October   | 09:00–12:00     | L106       | [Mines de Paris][mines-map]                       | **Limited: 48 seats**                        |
@@ -45,6 +49,8 @@ Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 
 | 26 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
 | 3 December  | 09:00–12:00     | L117       | [Mines de Paris][mines-map]                       | **Limited: 46 seats**                        |
 | 10 December | 09:00–12:00     | MDM_F      | [Maison des Mines, rue Saint-Jacques][maison-map] | **Limited: 48 seats**                        |
+
+</div>
 
 [mines-map]: https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris
 [maison-map]: https://www.google.com/maps/search/?api=1&query=Maison+des+Mines+rue+Saint-Jacques+Paris
