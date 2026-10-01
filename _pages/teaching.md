@@ -15,6 +15,8 @@ The teaching team brings together Justin Carpentier, [Yann Dubois De Mont Marin]
 
 Please [subscribe to the course mailing list](https://sympa.inria.fr/sympa/subscribe/robotics-mva26) to receive announcements and updates about the class.
 
+The tutorials are available in [this repository](https://github.com/TheotimeLH/2026_MVA_Robotics_Exercises).
+
 ### Course overview
 
 The class covers nine complementary topics, connecting the mathematical foundations of robot motion with perception, learning, and responsible deployment:
