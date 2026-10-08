@@ -59,6 +59,6 @@ Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 
 
 **Directions to FORGE_haut:** turn left after reception and continue to the far end, walking parallel to boulevard Saint-Michel. Go down the stairs, then continue in the same direction; the room is on your right.
 
-### Materials and assessment
+### Assessment
 
-In that edition, homework accounted for 20% of the grade; a project or research article study, completed in pairs and presented through a report and poster, accounted for 80%.
+In previous years, the tutorials were graded, but we decided to stop grading them due to coding assistants (we still strongly encourage you to complete the notebooks). Instead, there will be a quiz during the last session covering the topics seen in the course. The quiz will account for 25% of the final grade; the remaining 75% will come from a research article study, completed in pairs and presented through a report and a poster. Each pair will choose a paper from a list that we will share soon, with about two groups per paper. Students are expected to understand the paper and then either reimplement it or try extending it. To pass the course, students must obtain a final grade of at least 10/20.
