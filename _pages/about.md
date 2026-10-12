@@ -28,6 +28,8 @@ From 2014 to 2017, I pursued my PhD in the [Gepetto research group](http://proje
 
 After a postdoctoral appointment in Gepetto, I joined [Willow](https://www.di.ens.fr/willow/) as a postdoctoral researcher in September 2018. My research has since broadened from locomotion to the connections between perception, learning, simulation, and control, with physical interaction as a common focus.
 
+One of my core motivations has always been to translate fundamental research into advanced, mature, and reliable software that anyone can use and build upon. This commitment has led me to create and lead the development of Pinocchio and several other open-source software projects.
+
 ## Open positions
 
 At [Willow](https://www.di.ens.fr/willow/), we welcome talented postdoctoral researchers and engineers interested in tackling challenging problems in robotics. To express your interest, please complete our [application form](https://forms.gle/psFnCibYby3kw6nA8), and I will get back to you to discuss opportunities.
