@@ -45,7 +45,8 @@ Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 
 | 8 October   | 09:00–12:00     | L108_B     | [Mines de Paris][mines-map]                       |                                              |
 | 15 October  | 09:00–12:00     | L109       | [Mines de Paris][mines-map]                       |                                              |
 | 22 October  | 09:00–12:00     | L109       | [Mines de Paris][mines-map]                       |                                              |
-| 5 November  | To be confirmed |            | To be confirmed                                   | **Alternative arrangements to be confirmed** |
+| 29 October  | 09:00–12:00     | V107       | [Mines de Paris][mines-map]                       |                                              |
+| <s>5 November</s> | —          | —          | —                                                 | **Class cancelled**                          |
 | 12 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
 | 19 November | 09:00–12:00     | L106       | [Mines de Paris][mines-map]                       | **Limited: 48 seats**                        |
 | 26 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
