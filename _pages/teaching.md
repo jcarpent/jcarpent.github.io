@@ -33,7 +33,7 @@ The class covers nine complementary topics, connecting the mathematical foundati
 
 ### Class locations and schedule
 
-Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 to 12:00 (Paris time)** on the dates below. The session on 10 December will take place at the **[Maison des Mines, rue Saint-Jacques][maison-map]**. Rooms with limited seating are marked in the table; the other rooms are larger.
+Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 to 12:00 (Paris time)** on the dates below. The exam (poster session) on **3 December** will take place at **[Inria Paris, 48 rue Barrault][inria-map]**. The session on 10 December will take place at the **[Maison des Mines, rue Saint-Jacques][maison-map]**. Rooms with limited seating are marked in the table; the other rooms are larger.
 
 <p class="class-schedule-hint" id="class-schedule-hint">On small screens, swipe the table sideways to see all columns.</p>
 
@@ -50,16 +50,19 @@ Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 
 | 12 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
 | 19 November | 09:00–12:00     | L106       | [Mines de Paris][mines-map]                       | **Limited: 48 seats**                        |
 | 26 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
-| 3 December  | 09:00–12:00     | L117       | [Mines de Paris][mines-map]                       | **Limited: 46 seats**                        |
+| 3 December  | 09:00–12:00     | —          | [Inria Paris][inria-map]           | **Exam (poster session)**                   |
 | 10 December | 09:00–12:00     | MDM_F      | [Maison des Mines, rue Saint-Jacques][maison-map] | **Limited: 48 seats**                        |
 
 </div>
 
+[inria-map]: https://www.google.com/maps/search/?api=1&query=Inria+Paris+48+rue+Barrault+75013+Paris
 [mines-map]: https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris
 [maison-map]: https://www.google.com/maps/search/?api=1&query=Maison+des+Mines+rue+Saint-Jacques+Paris
 
 **Directions to FORGE_haut:** turn left after reception and continue to the far end, walking parallel to boulevard Saint-Michel. Go down the stairs, then continue in the same direction; the room is on your right.
 
 ### Assessment
+
+The exam (poster session) will take place on **3 December 2026 at [Inria Paris, 48 rue Barrault][inria-map]**.
 
 In previous years, the tutorials were graded, but we decided to stop grading them due to coding assistants (we still strongly encourage you to complete the notebooks). Instead, there will be a quiz during the last session covering the topics seen in the course. The quiz will account for 25% of the final grade; the remaining 75% will come from a research article study, completed in pairs and presented through a report and a poster. Each pair will choose a paper from a list that we will share soon, with about two groups per paper. Students are expected to understand the paper and then either reimplement it or try extending it. To pass the course, students must obtain a final grade of at least 10/20.
