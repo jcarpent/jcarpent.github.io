@@ -12,3 +12,5 @@ reddit.com
 ^https://unsplash\.com/$
 # This thesis preview loops through ProQuest's library-proxy redirect in automated checks.
 ^https://www\.proquest\.com/openview/b9a0964320baeea9bdcde4bc597fe9c1/1\?
+# This mailing-list form loops through Inria's CAS login redirect in automated checks.
+^https://sympa\.inria\.fr/sympa/subscribe/robotics-mva26$

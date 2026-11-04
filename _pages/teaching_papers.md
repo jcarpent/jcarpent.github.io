@@ -44,8 +44,8 @@ How can a robot compute motions that avoid obstacles, satisfy an objective, and 
   <li><a href="https://arxiv.org/abs/2205.04422">Motion Planning around Obstacles with Convex Optimization</a></li>
   <li><a href="https://arxiv.org/abs/2409.15610">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a></li>
   <li><a href="https://arxiv.org/abs/1404.2334">Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic</a></li>
-  <li><a href="https://journals.sagepub.com/doi/pdf/10.1177/0278364914521306">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a></li>
-  <li><a href="https://dl.acm.org/doi/pdf/10.1145/2185520.2185539">Discovery of complex behaviors through contact-invariant optimization</a></li>
+  <li><a href="https://hal.science/hal-00751924/document">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a></li>
+  <li><a href="https://roboti.us/lab/papers/MordatchSIGGRAPH12.pdf">Discovery of complex behaviors through contact-invariant optimization</a></li>
   <li><a href="https://hal.science/hal-05201780v3/file/Frictional%20Contact-Implicit%20Inverse%20Dynamics.pdf">Frictional Contact-Implicit Inverse Dynamics</a></li>
 </ol>
 
