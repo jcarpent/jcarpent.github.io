@@ -41,8 +41,8 @@ The papers are grouped by topic. Short introductions place each group in context
 How can a robot compute motions that avoid obstacles, satisfy an objective, and make use of contact? These papers represent several approaches: convex optimization over a graph of collision-free regions, sampling-based planning with a focused search, sampling-based model predictive control applied directly to torque-level locomotion, hierarchical quadratic programming for online humanoid motion generation, and optimization and inverse-dynamics methods that reason directly about contact. They build on the motion planning and optimal control sessions of the class.
 
 <ol>
-  <li>(Graph of Convex Sets) <a href="https://arxiv.org/abs/2205.04422">Motion Planning around Obstacles with Convex Optimization</a></li>
-  <li>(DIAL-MPC) <a href="https://arxiv.org/abs/2409.15610">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a></li>
+  <li><a href="https://arxiv.org/abs/2205.04422">Motion Planning around Obstacles with Convex Optimization</a></li>
+  <li><a href="https://arxiv.org/abs/2409.15610">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a></li>
   <li><a href="https://arxiv.org/abs/1404.2334">Informed RRT*: Optimal Sampling-based Path Planning Focused via Direct Sampling of an Admissible Ellipsoidal Heuristic</a></li>
   <li><a href="https://journals.sagepub.com/doi/pdf/10.1177/0278364914521306">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a></li>
   <li><a href="https://dl.acm.org/doi/pdf/10.1145/2185520.2185539">Discovery of complex behaviors through contact-invariant optimization</a></li>
@@ -55,7 +55,7 @@ Simulators let robots be tested and trained safely and at scale, but their resul
 
 <ol start="7">
   <li><a href="https://arxiv.org/abs/2304.06372">Contact Models in Robotics: a Comparative Analysis</a></li>
-  <li>(ADMM) <a href="https://arxiv.org/abs/2405.17020">From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach</a></li>
+  <li><a href="https://arxiv.org/abs/2405.17020">From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach</a></li>
   <li><a href="https://arxiv.org/abs/1710.06537">Sim-to-Real Transfer of Robotic Control with Dynamics Randomization</a></li>
   <li><a href="https://arxiv.org/abs/2107.04034">RMA: Rapid Motor Adaptation for Legged Robots</a></li>
   <li><a href="https://arxiv.org/abs/2604.02523">Tune to Learn: How Controller Gains Shape Robot Policy Learning</a></li>
@@ -81,11 +81,11 @@ Imitation learning trains policies from demonstrations instead of a hand-designe
 
 <ol start="19">
   <li><a href="https://arxiv.org/abs/2303.04137">Diffusion Policy: Visuomotor Policy Learning via Action Diffusion</a></li>
-  <li>(ACT) <a href="https://arxiv.org/abs/2304.13705">Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware</a></li>
+  <li><a href="https://arxiv.org/abs/2304.13705">Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware</a></li>
   <li><a href="https://arxiv.org/abs/2403.03954">3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations</a></li>
   <li><a href="https://arxiv.org/abs/2605.21414">PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction</a></li>
   <li><a href="https://arxiv.org/abs/2512.01809">Much Ado About Noising: Dispelling the Myths of Generative Robotic Control</a></li>
-  <li>(ABC) <a href="https://arxiv.org/abs/2606.27375">Scalable Behavior Cloning with Open Data, Training, and Evaluation</a></li>
+  <li><a href="https://arxiv.org/abs/2606.27375">Scalable Behavior Cloning with Open Data, Training, and Evaluation</a></li>
   <li><a href="https://roboticsconference.org/2026/program/papers/160/">Muninn: Your Trajectory Diffusion Model But Faster</a></li>
   <li><a href="https://arxiv.org/abs/2409.00588">Diffusion Policy Policy Optimization</a></li>
 </ol>
