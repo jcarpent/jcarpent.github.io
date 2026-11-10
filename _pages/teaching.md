@@ -35,24 +35,86 @@ The class covers nine complementary topics, connecting the mathematical foundati
 
 Classes will take place mainly at **[Mines de Paris][mines-map]**, from **09:00 to 12:00 (Paris time)** on the dates below. The exam (poster session) on **3 December** will take place at **[Inria Paris, 48 rue Barrault][inria-map]**. The session on 10 December will take place at the **[Maison des Mines, rue Saint-Jacques][maison-map]**. Rooms with limited seating are marked in the table; the other rooms are larger.
 
-<p class="class-schedule-hint" id="class-schedule-hint">On small screens, swipe the table sideways to see all columns.</p>
-
-<div class="class-schedule" role="region" aria-label="Class locations and schedule" aria-describedby="class-schedule-hint" tabindex="0" markdown="1">
-
-| Date (2026) | Time (Paris)    | Room       | Location                                          | Capacity / notes                             |
-| ----------- | --------------- | ---------- | ------------------------------------------------- | -------------------------------------------- |
-| 1 October   | 09:00–12:00     | L106       | [Mines de Paris][mines-map]                       | **Limited: 48 seats**                        |
-| 8 October   | 09:00–12:00     | L108_B     | [Mines de Paris][mines-map]                       |                                              |
-| 15 October  | 09:00–12:00     | L109       | [Mines de Paris][mines-map]                       |                                              |
-| 22 October  | 09:00–12:00     | L109       | [Mines de Paris][mines-map]                       |                                              |
-| 29 October  | 09:00–12:00     | V107       | [Mines de Paris][mines-map]                       |                                              |
-| <s>5 November</s> | —          | —          | —                                                 | **Class cancelled**                          |
-| 12 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
-| 19 November | 09:00–12:00     | L106       | [Mines de Paris][mines-map]                       | **Limited: 48 seats**                        |
-| 26 November | 09:00–12:00     | FORGE_haut | [Mines de Paris][mines-map]                       | **Limited: 48 seats**; directions below      |
-| 3 December  | 09:00–12:00     | —          | [Inria Paris][inria-map]           | **Exam (poster session)**                   |
-| 10 December | 09:00–12:00     | MDM_F      | [Maison des Mines, rue Saint-Jacques][maison-map] | **Limited: 48 seats**                        |
-
+<div class="class-schedule" role="region" aria-label="Class locations and schedule" tabindex="0" markdown="0">
+  <table role="table" aria-label="Class locations and schedule for 2026">
+    <caption>Class schedule (2026)</caption>
+    <thead role="rowgroup">
+      <tr role="row">
+        <th scope="col" role="columnheader">Date (2026)</th>
+        <th scope="col" role="columnheader">Time (Paris)</th>
+        <th scope="col" role="columnheader">Room</th>
+        <th scope="col" role="columnheader">Location</th>
+      </tr>
+    </thead>
+    <tbody role="rowgroup">
+      <tr role="row">
+        <th scope="row" role="rowheader">1 October</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>L106 <span class="class-schedule-note">Limited seats: 48</span></span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">8 October</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>L108_B</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">15 October</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>L109</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">22 October</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>L109</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">29 October</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>V107</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader"><s>5 November</s> <span class="class-schedule-note">Class cancelled</span></th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>—</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>—</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span>—</span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">12 November</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>FORGE_haut <span class="class-schedule-note">Limited seats: 48</span></span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">19 November</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>L106 <span class="class-schedule-note">Limited seats: 48</span></span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">26 November</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>FORGE_haut <span class="class-schedule-note">Limited seats: 48</span></span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Mines+Paris+PSL+boulevard+Saint-Michel+Paris">Mines de Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">3 December <span class="class-schedule-note">Exam (poster session)</span></th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>—</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Inria+Paris+48+rue+Barrault+75013+Paris">Inria Paris</a></span></td>
+      </tr>
+      <tr role="row">
+        <th scope="row" role="rowheader">10 December</th>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Time (Paris): </span> <span>09:00–12:00</span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Room: </span> <span>MDM_F <span class="class-schedule-note">Limited seats: 48</span></span></td>
+        <td role="cell"><span class="class-schedule-label" aria-hidden="true">Location: </span> <span><a href="https://www.google.com/maps/search/?api=1&query=Maison+des+Mines+rue+Saint-Jacques+Paris">Maison des Mines, rue Saint-Jacques</a></span></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 [inria-map]: https://www.google.com/maps/search/?api=1&query=Inria+Paris+48+rue+Barrault+75013+Paris
